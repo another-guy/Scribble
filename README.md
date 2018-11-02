@@ -27,8 +27,9 @@
 
 ### Windows
 
-* ✔️👍 [VS Code](https://code.visualstudio.com/)
+* ✔️👍 [VS Code](https://code.visualstudio.com/) - extensible code editor.
   * ➖ [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
   * ➖ [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-* ✔️👍 [Git Bash](https://git-scm.com/downloads)
-* ✔️👍 [ConEmu](https://conemu.github.io/)
+* ✔️👍 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
+* ✔️👍 [ConEmu](https://conemu.github.io/) - multiple console terminal for Windows. 
+* ✔️👍 [Yarn](https://yarnpkg.com/en/) - alternative NPM package manger.
