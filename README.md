@@ -53,3 +53,7 @@ Install via `yarn global add <package-name>`.
 * ✔️👍 [source-map-explorer](https://www.npmjs.com/package/source-map-explorer): Analyze and debug space usage through source maps.
 * ✔️👍 [yeoman](https://www.npmjs.com/package/yeoman-generator): Rails-inspired generator system that provides scaffolding for your apps.
 * ✔️👍 [tldr](https://www.npmjs.com/package/tldr): Simplified and community-driven man pages.
+
+### Candidates
+
+* ➖ [FuseBox](https://github.com/fuse-box/fuse-box) A blazing fast js bundler/loader with a comprehensive API 🔥.
