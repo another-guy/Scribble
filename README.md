@@ -56,4 +56,4 @@ Install via `yarn global add <package-name>`.
 
 ### Candidates
 
-* ➖ [FuseBox](https://github.com/fuse-box/fuse-box) A blazing fast js bundler/loader with a comprehensive API 🔥.
+* ➖ [FuseBox](https://github.com/fuse-box/fuse-box): A blazing fast js bundler/loader with a comprehensive API 🔥.
