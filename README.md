@@ -65,6 +65,8 @@ Install via `yarn global add <package-name>`.
 ### Candidates
 
 * ➖ [FuseBox](https://github.com/fuse-box/fuse-box): A blazing fast js bundler/loader with a comprehensive API 🔥.
+* ➖ [Storybook](https://storybook.js.org/): The UI Development Environment You'll ♥️ to use.
+* ➖ [jsonata](http://jsonata.org/): JSON query and transformation language.
 
 ### Recipes
 
