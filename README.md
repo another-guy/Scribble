@@ -57,3 +57,7 @@ Install via `yarn global add <package-name>`.
 ### Candidates
 
 * ➖ [FuseBox](https://github.com/fuse-box/fuse-box): A blazing fast js bundler/loader with a comprehensive API 🔥.
+
+### Recipes
+
+* ✔️👍 [Debug Jest tests via VS Code](https://github.com/Microsoft/vscode-recipes/tree/master/debugging-jest-tests#configure-launchjson-file-for-your-test-framework)
