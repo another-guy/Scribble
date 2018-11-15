@@ -74,4 +74,4 @@ Install via `yarn global add <package-name>`.
 
 ## Productivity Tools
 
-* ✔️👍🔧 [Greenhsot](http://getgreenshot.org/) the most awesome tool for making screenshots on Windows.
+* ✔️👍🔧 [Greenhsot](http://getgreenshot.org/): The most awesome tool for making screenshots on Windows.
