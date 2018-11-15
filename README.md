@@ -37,12 +37,12 @@
 
 ### Windows
 
-* ✔️👍 [VS Code](https://code.visualstudio.com/) - extensible code editor.
-  * ➖ [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
-  * ➖ [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-* ✔️👍 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
-* ✔️👍 [ConEmu](https://conemu.github.io/) - multiple console terminal for Windows. 
-* ✔️👍 [Yarn](https://yarnpkg.com/en/) - alternative NPM package manger.
+* ✔️👍🔧 [VS Code](https://code.visualstudio.com/) - extensible code editor.
+  * ➖🔧 [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
+  * ➖🔧 [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+* ✔️👍🔧 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
+* ✔️👍🔧 [ConEmu](https://conemu.github.io/) - multiple console terminal for Windows. 
+* ✔️👍🔧 [Yarn](https://yarnpkg.com/en/) - alternative NPM package manger.
 
 ### Global NPM packages
 
@@ -71,3 +71,7 @@ Install via `yarn global add <package-name>`.
 ### Recipes
 
 * ✔️👍 [Debug Jest tests via VS Code](https://github.com/Microsoft/vscode-recipes/tree/master/debugging-jest-tests#configure-launchjson-file-for-your-test-framework)
+
+## Productivity Tools
+
+* ✔️👍🔧 [Greenhsot](http://getgreenshot.org/) the most awesome tool for making screenshots on Windows.
