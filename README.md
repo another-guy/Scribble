@@ -64,7 +64,7 @@ Install individually via `yarn global add <package-name>`
 
 ...or install 'em all:
 
-`npm install --global create-react-app @angular/cli vue-cli generator-node-typescript nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yeoman tldr`
+`npm install --global create-react-app @angular/cli vue-cli generator-node-typescript nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yo tldr`
 
 ### Candidates
 
