@@ -46,8 +46,6 @@
 
 ### Global NPM packages
 
-Install via `yarn global add <package-name>`.
-
 * ✔️👍 [create-react-app](https://www.npmjs.com/package/create-react-app): Create React apps with no building configuration.
 * ✔️👍 [@angular/cli](https://www.npmjs.com/package/@angular/cli): Scaffold Angular apps.
 * ✔️👍 [vue-cli](https://www.npmjs.com/package/vue-cli): A simple CLI for scaffolding Vue.js projects.
@@ -61,6 +59,12 @@ Install via `yarn global add <package-name>`.
 * ✔️👍 [source-map-explorer](https://www.npmjs.com/package/source-map-explorer): Analyze and debug space usage through source maps.
 * ✔️👍 [yeoman](https://www.npmjs.com/package/yeoman-generator): Rails-inspired generator system that provides scaffolding for your apps.
 * ✔️👍 [tldr](https://www.npmjs.com/package/tldr): Simplified and community-driven man pages.
+
+Install individually via `yarn global add <package-name>`
+
+...or install 'em all:
+
+`npm install --global create-react-app @angular/cli vue-cli generator-node-typescript nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yeoman tldr`
 
 ### Candidates
 
