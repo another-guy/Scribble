@@ -82,3 +82,4 @@ Install individually via `yarn global add <package-name>`
 ## Productivity Tools
 
 * ✔️👍🔧 [Greenshot](http://getgreenshot.org/): The most awesome tool for making screenshots on Windows.
+* ✔️👍🔧 [Emojipedia](https://emojipedia.org/): Quick'n'dirty replacement for SVG icons.
