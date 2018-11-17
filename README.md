@@ -8,8 +8,10 @@
 |---|---|---|
 | ✔️ have read/used | ❗ important | 🔧 practice |
 | ➖ have not read/used yet | 👍 liked | 📄 theory |
-| | 👎 disliked | 🏋️ exercise |
+| | 👋 mixed feelings | 🏋️ exercise |
+| | 👎 disliked | |
 | | ❌ | |
+| | | |
 
 ## Learning Materials
 
