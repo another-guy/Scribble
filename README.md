@@ -28,7 +28,7 @@
 
 ### Microservices
 
-* ➖📄 [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/) by Cesar de la Torre.
+* ➖📄 [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/) by [Cesar de la Torre](https://twitter.com/cesardelatorre).
 
 ## CSS
 
@@ -52,6 +52,7 @@
 * ✔️👍 [@angular/cli](https://www.npmjs.com/package/@angular/cli): Scaffold Angular apps.
 * ✔️👍 [vue-cli](https://www.npmjs.com/package/vue-cli): A simple CLI for scaffolding Vue.js projects.
 * ✔️👍 [generator-node-typescript](https://www.npmjs.com/package/generator-node-typescript): A minimal Yeoman Generator for creating NodeJS modules using TypeScript.
+* ✔️👍 [lerna](https://lernajs.io/): A tool for managing JavaScript projects with multiple packages.
 * ➖ [nodemon](https://www.npmjs.com/package/nodemon): Simple monitor script for use during development of a node.js app.
 * ✔️👍 [hotel](https://www.npmjs.com/package/hotel): Local domains for everyone and more!
 * ✔️👍 [json-server](https://www.npmjs.com/package/json-server): Serves JSON files through REST routes.
@@ -66,7 +67,7 @@ Install individually via `yarn global add <package-name>`
 
 ...or install 'em all:
 
-`npm install --global create-react-app @angular/cli vue-cli generator-node-typescript nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yo tldr`
+`npm install --global create-react-app @angular/cli vue-cli generator-node-typescript lerna nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yo tldr`
 
 ### Candidates
 
