@@ -4,14 +4,14 @@
 
 ## Legend
 
-|Status|Review|Kind|
-|---|---|---|
-| ✔️ have read/used | ❗ important | 🔧 practice |
-| ➖ have not read/used yet | 👍 liked | 📄 theory |
-| | 👋 mixed feelings | 🏋️ exercise |
-| | 👎 disliked | |
-| | ❌ | |
-| | | |
+|Status|Review|Kind|Format|
+|---|---|---|---|
+| ✔️ have read/used | ❗ important | 🔧 practice | 💻 course |
+| ➖ have not read/used yet | 👍 liked | 📄 theory | 📺 video/presentation |
+| | 👋 mixed feelings | 🏋️ exercise | |
+| | 👎 disliked | | |
+| | ❌ | | |
+| | | | |
 
 ## Learning Materials
 
@@ -23,8 +23,8 @@
 
 #### React
 
-* ✔️👍🔧 [Simply React (Composable & Extensible Components)](https://www.youtube.com/watch?v=AiJ8tRRH0f8&t=1053s) by [Kent C Dodds](https://twitter.com/kentcdodds)
-* ✔️👎📄🔧 [mobx-state-tree (MST) tutorial](https://egghead.io/lessons/react-describe-your-application-domain-using-mobx-state-tree-mst-models) by [Michel Weststrate](https://twitter.com/mweststrate?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Somewhat outdated; doesn't work quite right with TypeScript; doesn't cover debugging and other in-depth tool; only great as a shallow introduction.
+* ✔️👍📺🔧 [Simply React (Composable & Extensible Components)](https://www.youtube.com/watch?v=AiJ8tRRH0f8&t=1053s) by [Kent C Dodds](https://twitter.com/kentcdodds)
+* ✔️👎📺💻📄🔧 [mobx-state-tree (MST) tutorial](https://egghead.io/lessons/react-describe-your-application-domain-using-mobx-state-tree-mst-models) by [Michel Weststrate](https://twitter.com/mweststrate?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Somewhat outdated; doesn't work quite right with TypeScript; doesn't cover debugging and other in-depth tool; only great as a shallow introduction.
 
 ### Microservices
 
@@ -32,6 +32,7 @@
 
 ## CSS
 
+* ➖📺 [CSS Grid Changes Everything (About Web Layouts)](https://youtu.be/txZq7Laz7_4) by [Morten Rand-Hendriksen](https://twitter.com/mor10?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * ➖🏋️ [Flexbox Froggy](https://flexboxfroggy.com/)
 * ➖🏋️ [Grid Garden](http://cssgridgarden.com/)
 
