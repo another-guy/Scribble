@@ -111,3 +111,11 @@ Use `@support` feature query.
 ```css
 @supports (grid-area: auto) { ... }
 ```
+
+### 4. CSS Grid: A Prcatical Approach for Today
+
+1. Build accessible mobile-first layout without grid.
+1. Use mobile-first layout as fallback for all browsers.
+1. Use `@support` to detect grid support.
+1. At the appropriate breakpoint, create layout with grid and grid-areas.
+1. Explore new layouts as viewport widens.
