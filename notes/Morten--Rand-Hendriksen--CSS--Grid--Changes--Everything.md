@@ -4,6 +4,8 @@
 
 [🎞️ @ SlideShare](https://www.slideshare.net/mor10/css-grid-changes-everything-about-web-layouts-wordcamp-europe-2017)
 
+[Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+
 ## Terminology
 
 * Grid **container** -- element containing a grid, defined by setting `display: grid;`.
@@ -94,4 +96,18 @@ The grid items automatically populate frid from top left to bottom right based o
 .side-content {
   grid-area: side;
 }
+```
+
+### HACK? for IE `@supports`
+
+Use `@support` feature query.
+
+```css
+@supports (display: grid) { ... }
+```
+
+...or better
+
+```css
+@supports (grid-area: auto) { ... }
 ```
