@@ -33,6 +33,7 @@
 ## CSS
 
 * ➖📺 [CSS Grid Changes Everything (About Web Layouts)](https://youtu.be/txZq7Laz7_4) by [Morten Rand-Hendriksen](https://twitter.com/mor10?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+  * [✏️ My Notes](./notes/Morten--Rand-Hendriksen--CSS--Grid--Changes--Everything.md)
 * ➖🏋️ [Flexbox Froggy](https://flexboxfroggy.com/)
 * ➖🏋️ [Grid Garden](http://cssgridgarden.com/)
 
