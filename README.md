@@ -23,6 +23,7 @@
 
 * ✔️👍📺📄 [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) by [Philip Roberts](https://twitter.com/philip_roberts).
 * ✔️👍📺📄 [Further Adventures of the Event Loop](https://youtu.be/u1kqx6AenYw) by [Erin Zimmer](https://twitter.com/erinjzimmer).
+  * [✏️ My Notes](./notes/Erin-Zimmer--Further-Adventures-of-the-Event-Loop.md).
 * ➖📺📄[Asynchrony: Under the Hood](https://youtu.be/SrNQS8J67zc) by [Shelley Vohr](https://twitter.com/codebytere).
 
 ### Front-end
