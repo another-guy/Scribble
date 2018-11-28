@@ -83,6 +83,7 @@ Install individually via `yarn global add <package-name>`
 * ➖ [FuseBox](https://github.com/fuse-box/fuse-box): A blazing fast js bundler/loader with a comprehensive API 🔥.
 * ➖ [Storybook](https://storybook.js.org/): The UI Development Environment You'll ♥️ to use.
 * ➖ [jsonata](http://jsonata.org/): JSON query and transformation language.
+* ➖ [TensorFlow.js](https://js.tensorflow.org/): A JavaScript library for training and deploying ML models in the browser and on Node.js.
 
 ### Recipes
 
