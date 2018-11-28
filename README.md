@@ -17,13 +17,19 @@
 
 ### Metalearning
 
-* ➖❗👍📄 **Pragmatic Thinking and Learning** by [Andy Hunt](https://twitter.com/PragmaticAndy). [[the Pragmatic Bookshelf]](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [[Amazon.com]](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
+* ➖❗👍📄 **Pragmatic Thinking and Learning** by [Andy Hunt](https://twitter.com/PragmaticAndy). [[the Pragmatic Bookshelf]](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [[Amazon.com]](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050).
+
+### JavaScript
+
+* ✔️👍📺📄 [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ) by [Philip Roberts](https://twitter.com/philip_roberts).
+* ✔️👍📺📄 [Further Adventures of the Event Loop](https://youtu.be/u1kqx6AenYw) by [Erin Zimmer](https://twitter.com/erinjzimmer).
+* ➖📺📄[Asynchrony: Under the Hood](https://youtu.be/SrNQS8J67zc) by [Shelley Vohr](https://twitter.com/codebytere).
 
 ### Front-end
 
 #### React
 
-* ✔️👍📺🔧 [Simply React (Composable & Extensible Components)](https://www.youtube.com/watch?v=AiJ8tRRH0f8&t=1053s) by [Kent C Dodds](https://twitter.com/kentcdodds)
+* ✔️👍📺🔧 [Simply React (Composable & Extensible Components)](https://www.youtube.com/watch?v=AiJ8tRRH0f8&t=1053s) by [Kent C Dodds](https://twitter.com/kentcdodds).
 * ✔️👎📺💻📄🔧 [mobx-state-tree (MST) tutorial](https://egghead.io/lessons/react-describe-your-application-domain-using-mobx-state-tree-mst-models) by [Michel Weststrate](https://twitter.com/mweststrate?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Somewhat outdated; doesn't work quite right with TypeScript; doesn't cover debugging and other in-depth tool; only great as a shallow introduction.
 
 ### Microservices
@@ -32,9 +38,9 @@
 
 ## CSS
 
-* ✔️👍📺🔧 [CSS Grid Changes Everything (About Web Layouts)](https://youtu.be/txZq7Laz7_4) by [Morten Rand-Hendriksen](https://twitter.com/mor10?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-  * [✏️ My Notes](./notes/Morten--Rand-Hendriksen--CSS--Grid--Changes--Everything.md)
-  * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+* ✔️👍📺🔧 [CSS Grid Changes Everything (About Web Layouts)](https://youtu.be/txZq7Laz7_4) by [Morten Rand-Hendriksen](https://twitter.com/mor10?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+  * [✏️ My Notes](./notes/Morten--Rand-Hendriksen--CSS--Grid--Changes--Everything.md).
+  * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/).
 * ➖🏋️ [Flexbox Froggy](https://flexboxfroggy.com/)
 * ✔️👍🏋️ [Grid Garden](http://cssgridgarden.com/)
 
