@@ -20,6 +20,7 @@
 ### Browser
 
 * Event loop.
+  * runs continuously and is responsible for executing tasks.
   * 😄 can have more than one task queue.
   * 😄 can process a task from any queue. In other words, queues are executed in arbitrary order.
 * Task queue.
@@ -28,13 +29,13 @@
   * 😄 when a task is executed, there are no interruptions. 
 * Microtask queue (Promise and alike).
   * is separate from regular task queues.
-  * runs after **EVERY** task.
+  * runs after **EACH AND EVERY** task.
 * Animation queue.
   * is separate from regular task queues and from microtask queue.
   * is used via `requestAnimationFrame(() => {...})`.
 * Rendering pipeline.
   * 😞 **CAN NOT RUN** until the task and **ALL** the microtasks and **ALL THE COPIED** animation tasks are complete.
-  * runs about each ~`16ms` (`60`fps => `1000`ms / `60`frames === `16.(6)`ms).
+  * **MAY** run after aforementioned tasks are complete. In fact, it runs about each `16ms` (`60`fps => `1000`ms / `60`frames === `16.(6)`ms).
   * therefore, requires tasks & microtasks to be lightweight (under `16`ms in total) and not flooding the tasks and/or microtasks queues.
 
 ```js
