@@ -4,34 +4,38 @@
 
 ## Terminology
 
-* Event queue -- place where JS code is waiting for getting to execute (script tag, DOM event handler, timer event, XHR).
-  1. Truly a queue (FIFO), as in "tasks *within* a queue are executed in the order of their arrival".
-* Task.
-  1. ...is executed without interruptions.
-* Rendering pipeline -- part of the browser responsible for painting things in the window.
-  1. ...*can* run after a task finishes.
-  1. ...runs about each ~16ms (60 fps => 1000ms / 60frames === 16.(6)ms).
-  1. ...**can not** run until the task finishes.
-  1. ==> the tasks should take less than 16ms to execute, ideally.
 * Event loop.
-  1. ...can have more than one task queue.
-  1. ...queues can be executed in *any order*.
-  1. Tasks from the same source go to the same event queue.
-* Microtask ~~ Promise.
-  * ...has an own microtask queue.
-  * ...runs after **EVERY** task.
-  * ...rendering pipeline waits for **ALL** the microtasks to complete just like it waits for a regular task.
-* Animation Frame Callback Queue (or simply put Animation Queue).
-  * ...used via `requestAnimationFrame(() => {...})`.
-  * ...has an own queue.
-* "check phase" in Node.js.
-  
+* Event queue -- place where JS code is waiting for getting to execute (script tag, DOM event handler, timer event, XHR).
+* Task.
+* Microtask ≅ Promise.
+* Animation Frame Callback Queue (aka Animation Queue).
+* Rendering pipeline -- part of the browser responsible for painting things in the window.
+
+## Related
+
+* [Phases in Node.js](https://medium.freecodecamp.org/walking-inside-nodejs-event-loop-85caeca391a9)
 
 ## In Nutshell
 
 ### Browser
 
-❗❗❗❗❗TODO
+* Event loop.
+  * 😄 can have more than one task queue.
+  * 😄 can process a task from any queue. In other words, queues are executed in arbitrary order.
+* Task queue.
+  * 😄 is a FIFO queue with task entries. I.e. the tasks within the queue are executed in order of their appearance.
+  * 😄 tasks from the same source go to the same queue.
+  * 😄 when a task is executed, there are no interruptions. 
+* Microtask queue (Promise and alike).
+  * is separate from regular task queues.
+  * runs after **EVERY** task.
+* Animation queue.
+  * is separate from regular task queues and from microtask queue.
+  * is used via `requestAnimationFrame(() => {...})`.
+* Rendering pipeline.
+  * 😞 **CAN NOT RUN** until the task and **ALL** the microtasks and **ALL THE COPIED** animation tasks are complete.
+  * runs about each ~`16ms` (`60`fps => `1000`ms / `60`frames === `16.(6)`ms).
+  * therefore, requires tasks & microtasks to be lightweight (under `16`ms in total) and not flooding the tasks and/or microtasks queues.
 
 ```js
 while (true) {
