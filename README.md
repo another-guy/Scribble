@@ -26,6 +26,7 @@
 * ✔️👍📺📄 [Further Adventures of the Event Loop](https://youtu.be/u1kqx6AenYw) by [Erin Zimmer](https://twitter.com/erinjzimmer).
   * [✏️ My Notes](./notes/Erin-Zimmer--Further-Adventures-of-the-Event-Loop.md).
 * ➖📺📄[Asynchrony: Under the Hood](https://youtu.be/SrNQS8J67zc) by [Shelley Vohr](https://twitter.com/codebytere).
+* ✔️📺📄[JavaScript Engines: The Good Parts™](https://youtu.be/5nmpokoRaZI?list=WL7) by [Mathias Bynens](https://twitter.com/mathias) and [Benedikt Meurer](https://twitter.com/bmeurer).
 
 ### Front-end
 
