@@ -18,6 +18,7 @@
 ### Metalearning
 
 * ➖❗👍📄 **Pragmatic Thinking and Learning** by [Andy Hunt](https://twitter.com/PragmaticAndy). [[the Pragmatic Bookshelf]](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [[Amazon.com]](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050).
+* ✔️👍📺📄[Making Badass Developers](https://youtu.be/FKTxC9pl-WM) by [Kathy Sierra](https://twitter.com/seriouspony). A talk on how to learn faster and more efficiently.
 
 ### JavaScript
 
