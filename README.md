@@ -8,14 +8,15 @@
 |---|---|---|---|
 | ✔️ have read/used | ❗ important | 🔧 practice | 💻 course |
 | ➖ have not read/used yet | 👍 liked | 📄 theory | 📺 video/presentation |
-| | 👋 mixed feelings | 🏋️ exercise | |
-| | 👎 disliked | | |
+| | 👋 mixed feelings | 🏋️ exercise | 🌐 website |
+| | 👎 disliked | | 🗄️ database |
 | | ❌ | | |
 
 ## Learning Materials
 
 ### Metalearning
 
+* ✔️👍📄🌐🗄️[Sci-Hub](https://sci-hub.se/) by [Alexandra Elbakyan](https://twitter.com/ringo_ring). The first pirate website in the world to provide mass and public access to tens of millions of research papers.
 * ➖❗👍📄 **Pragmatic Thinking and Learning** by [Andy Hunt](https://twitter.com/PragmaticAndy). [[the Pragmatic Bookshelf]](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [[Amazon.com]](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050).
 * ✔️👍📺📄[Making Badass Developers](https://youtu.be/FKTxC9pl-WM) by [Kathy Sierra](https://twitter.com/seriouspony). A talk on how to learn faster and more efficiently.
 
