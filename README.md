@@ -52,6 +52,7 @@
 ### Windows
 
 * ✔️👍🔧 [VS Code](https://code.visualstudio.com/) - extensible code editor.
+  * ✔️👍🔧 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - enables [Markdown](https://en.wikipedia.org/wiki/Markdown) support.
   * ➖🔧 [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
   * ➖🔧 [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * ✔️👍🔧 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
