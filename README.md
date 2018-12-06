@@ -98,4 +98,5 @@ Install individually via `yarn global add <package-name>`
 ## Productivity Tools
 
 * ✔️👍🔧 [Greenshot](http://getgreenshot.org/): The most awesome tool for making screenshots on Windows.
+* ✔️👍🔧 [ScreenToGif](https://www.screentogif.com/): Screen, webcam and sketchboard recorder with an integrated editor. Because showing an animation is worth 1000 of pictures.
 * ✔️👍🔧 [Emojipedia](https://emojipedia.org/): Quick'n'dirty replacement for SVG icons.
