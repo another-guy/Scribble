@@ -58,6 +58,7 @@
 * ✔️👍🔧 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
 * ✔️👍🔧 [ConEmu](https://conemu.github.io/) - multiple console terminal for Windows. 
 * ✔️👍🔧 [Yarn](https://yarnpkg.com/en/) - alternative NPM package manger.
+* ✔️👍🔧 [nvm-windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows. 
 
 ### Global NPM packages
 
