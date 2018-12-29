@@ -93,6 +93,7 @@ Install individually via `yarn global add <package-name>`
 * ➖ [enzyme](https://airbnb.io/enzyme/): JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * ➖ [SonarTS](https://github.com/SonarSource/SonarTS): Static code analyzer for TypeScript detecting bugs and suspicious patterns in your code.
 * ➖ [axe-core](https://www.deque.com/axe/): Axe is an open source rules library for accessibility testing. It was developed to empower developers to take automated accessibility testing into their own hands and to avoid common pitfalls of other automated accessibility tools. [Found here; some examples](https://youtu.be/l95VFLj3e2w).
+* ➖ [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/): PragmataPro™ is a condensed monospaced font optimized for screen, designed by Fabrizio Schiavi to be the ideal font for coding, math and engineering.
 
 ### Recipes
 
