@@ -85,6 +85,7 @@ Install individually via `yarn global add <package-name>`
 
 ### Candidates
 
+* ➖ [forever](https://www.npmjs.com/package/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 * ➖ [Puppeteer](https://github.com/GoogleChrome/puppeteer#readme): provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 * ➖ [FuseBox](https://github.com/fuse-box/fuse-box): A blazing fast js bundler/loader with a comprehensive API 🔥.
 * ➖ [Storybook](https://storybook.js.org/): The UI Development Environment You'll ♥️ to use.
