@@ -80,3 +80,22 @@ Verify installation.
 ```sh
 mongo --version
 ```
+
+## Storage & Security Configuration
+
+Source: https://hackernoon.com/how-to-install-and-secure-mongodb-in-amazon-ec2-in-minutes-90184283b0a1
+
+Create a path to store DB data.
+
+```sh
+mkdir -p ~/data/db
+```
+
+Give yourself permission to write in that folder.
+
+```sh
+chown $USER ~/data/db
+```
+
+...TODO
+
