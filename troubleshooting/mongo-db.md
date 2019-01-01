@@ -83,9 +83,12 @@ mongo --version
 
 ## Storage & Security Configuration
 
-Source: https://hackernoon.com/how-to-install-and-secure-mongodb-in-amazon-ec2-in-minutes-90184283b0a1
+Sources:
 
-Create a path to store DB data.
+* https://hackernoon.com/how-to-install-and-secure-mongodb-in-amazon-ec2-in-minutes-90184283b0a1
+* https://docs.mongodb.com/manual/core/security-built-in-roles/
+
+### Create a database directory
 
 ```sh
 mkdir -p ~/data/db
@@ -97,5 +100,50 @@ Give yourself permission to write in that folder.
 chown $USER ~/data/db
 ```
 
-...TODO
+### Create global `admin` user
 
+[Terminal 1]
+
+```sh
+mongod --port 27017 --dbpath ~/data/db
+```
+
+[Terminal 2]
+```sh
+mongo --port 27017
+
+use admin
+
+db.createUser({ user: "admin", pwd: "********", roles: [ { role: "userAdminAnyDatabase", db: "admin" } ] })
+```
+
+### Restart MongoDB instance and create db-specific users
+
+[Terminal 1]
+
+```sh
+mongod --auth --port 27017 --dbpath ~/data/db
+```
+
+[Terminal 2]
+
+```sh
+mongo --port 27017 -u "admin" -p --authenticationDatabase "admin"
+# enter the password...
+
+use soloydenko_com
+
+db.createUser({ user: "blogService", pwd: "********", roles: [ { role: "dbOwner", db: "soloydenko_com" } ] })
+
+^C
+```
+
+Test newly created user.
+
+```sh
+mongo --port 27017 -u "blogService" -p --authenticationDatabase "soloydenko_com"
+
+use soloydenko_com
+
+show users
+```
