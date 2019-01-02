@@ -1,4 +1,4 @@
-# MongoDB
+# MongoDB on AWS
 
 ## Prerequisites
 
