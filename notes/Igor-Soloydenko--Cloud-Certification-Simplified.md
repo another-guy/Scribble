@@ -86,6 +86,14 @@ Exam(s):
 
 ![](https://i0.wp.com/buildazure.com/wp-content/uploads/2018/09/microsoft-cert-azure-infra-certs.png?resize=768%2C405&ssl=1)
 
+## Google Compute Cloud
+
+TODO:
+* https://cloud.google.com/training/
+* https://cloud.google.com/certification/cloud-engineer
+* https://cloud.google.com/certification/cloud-developer
+* https://cloud.google.com/certification/cloud-architect
+
 ## Learning lists
 
 Azure directory: https://docs.microsoft.com/en-us/learn/browse/?roles=developer%2Csolution-architect&products=azure&resource_type=learning%20path
