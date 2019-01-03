@@ -121,3 +121,7 @@ Install individually via `yarn global add <package-name>`
 * ✔️👍🔧 [ScreenToGif](https://www.screentogif.com/): Screen, webcam and sketchboard recorder with an integrated editor. Because showing an animation is worth 1000 of pictures.
 * ✔️👍🔧 [Emojipedia](https://emojipedia.org/): Quick'n'dirty replacement for SVG icons.
 * ✔️👋🔧 [Brave](https://brave.com): Secure, Fast & Private web browser with Adblocker. **Browser has multiple -- sometimes very limiting -- issues**
+
+## Blogs
+
+* Hillel Wayne: [blog](https://www.hillelwayne.com/post/) and [twitter](https://twitter.com/hillelogram). Hillel Wayne is a software consultant who specializes in formal methods and specification. He also writes on empirical engineering, software history, and education. In his free time, he juggles and makes chocolate. Author of Practical TLA+: Planning Driven Development.
