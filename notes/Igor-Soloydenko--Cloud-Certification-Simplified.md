@@ -1,5 +1,14 @@
 # Cloud Certification
 
+## TODO
+
+* Microsoft Certified Trainer (MCT): https://www.microsoft.com/en-us/learning/mct-certification.aspx
+* Google Cloud Certification:
+  * https://cloud.google.com/training/
+  * https://cloud.google.com/certification/cloud-engineer
+  * https://cloud.google.com/certification/cloud-developer
+  * https://cloud.google.com/certification/cloud-architect
+
 ## Links
 
 AWS Certification: https://aws.amazon.com/certification/?nav=tc&loc=3
@@ -88,11 +97,7 @@ Exam(s):
 
 ## Google Compute Cloud
 
-TODO:
-* https://cloud.google.com/training/
-* https://cloud.google.com/certification/cloud-engineer
-* https://cloud.google.com/certification/cloud-developer
-* https://cloud.google.com/certification/cloud-architect
+TODO
 
 ## Learning lists
 
