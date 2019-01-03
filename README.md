@@ -91,6 +91,13 @@ Install individually via `yarn global add <package-name>`
 
 `npm install --global create-react-app @angular/cli vue-cli generator-node-typescript lerna nodemon hotel json-server npm-check-updates http-server serve source-map-explorer yo tldr`
 
+### React packages
+
+* ✔️👍 [@material-ui/core](https://github.com/mui-org/material-ui): React components that implement Google's Material Design.
+* ✔️👍 [react-loadable](https://github.com/jamiebuilds/react-loadable): A higher order component for loading components with dynamic imports.
+* ✔️👍 [react-markdown](https://github.com/rexxars/react-markdown): Render Markdown as React components.
+* ✔️👍 [react-pdf](https://www.npmjs.com/package/react-pdf): Display PDFs in your React app as easily as if they were images.
+
 ### Candidates
 
 * ➖ [forever](https://www.npmjs.com/package/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
