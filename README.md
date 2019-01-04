@@ -38,6 +38,10 @@
 
 ### Front-end
 
+#### Node.js
+
+* ✔️👍🔧 [Promises and Custom Errors](https://www.codementor.io/adityajha/making-better-use-of-the-error-class-in-node-js-qvj3lir01?utm_swu=7179) for better debugging.
+
 #### React
 
 * ✔️👍📺🔧 [Simply React (Composable & Extensible Components)](https://www.youtube.com/watch?v=AiJ8tRRH0f8&t=1053s) by [Kent C Dodds](https://twitter.com/kentcdodds).
