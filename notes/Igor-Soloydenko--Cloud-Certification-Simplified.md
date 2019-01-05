@@ -19,6 +19,12 @@ Microsoft Learning blog on new role-based certifications: https://www.microsoft.
 
 Microsoft Role-Based certification (as a list): https://www.microsoft.com/en-us/learning/browse-new-certification.aspx
 
+## Online Certification Training
+
+🏆 [Linux Academy](https://linuxacademy.com/)
+
+🏆 [A Cloud Guru](https://acloud.guru)
+
 ## Amazon Web Services Certification
 
 ![AWS Certification Paths](https://d1.awsstatic.com/training-and-certification/certification/Cert-Roadmap-v9.1.edda8af3d23c5d54cd6d2371cd5ccae528c62d6c.png)
