@@ -2,6 +2,8 @@
 
 [📺 @ Coursera](https://www.coursera.org/learn/everyday-parenting/home/welcome)
 
+[📄 @ Coursera](https://d18ky98rnyall9.cloudfront.net/_1e165f445f6fa2deddbc45928ebe899b_00_All-Techniques.pdf?Expires=1547251200&Signature=dsbUWsdadjfw1a4ncAbcGmqisE9PFqssLr5KGH9i4PNOkSsY6m94XaYiX9G2o9U38TwZBsyrhpwSG0zByINX9ELD5RevtRGGWQ~cBHx-mlbQvFOQjyIsIGa~i-RqlT1xGjKvzX-XR2trW-h10lJLLKFZVtoLFoC3oh3iGVjiNCY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 ### Related
 
 * Kazdin, A.E. & Rotella, C. (2008). The Kazdin Method for parenting the defiant child: With no pills, no therapy, no contest of wills. Boston: Houghton Mifflin.
