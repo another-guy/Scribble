@@ -1,8 +1,10 @@
 # Alan Kazdin: Everyday Parenting: The ABCs of Child Rearing
 
-[📺 @ Coursera](https://www.coursera.org/learn/everyday-parenting/home/welcome)
+[📺 Course @ Coursera](https://www.coursera.org/learn/everyday-parenting/home/welcome)
 
-[📄 @ Coursera](https://d18ky98rnyall9.cloudfront.net/_1e165f445f6fa2deddbc45928ebe899b_00_All-Techniques.pdf?Expires=1547251200&Signature=dsbUWsdadjfw1a4ncAbcGmqisE9PFqssLr5KGH9i4PNOkSsY6m94XaYiX9G2o9U38TwZBsyrhpwSG0zByINX9ELD5RevtRGGWQ~cBHx-mlbQvFOQjyIsIGa~i-RqlT1xGjKvzX-XR2trW-h10lJLLKFZVtoLFoC3oh3iGVjiNCY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[📄 Slides @ Coursera](https://d18ky98rnyall9.cloudfront.net/_1e165f445f6fa2deddbc45928ebe899b_00_All-Techniques.pdf?Expires=1547251200&Signature=dsbUWsdadjfw1a4ncAbcGmqisE9PFqssLr5KGH9i4PNOkSsY6m94XaYiX9G2o9U38TwZBsyrhpwSG0zByINX9ELD5RevtRGGWQ~cBHx-mlbQvFOQjyIsIGa~i-RqlT1xGjKvzX-XR2trW-h10lJLLKFZVtoLFoC3oh3iGVjiNCY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[📄 When your kid whines, screams, hits, kicks, and bites -- relax.pdf](https://d18ky98rnyall9.cloudfront.net/_de4bce36c59ac73e0b8436a608b26f88_2005_When-your-kid-whines_screams_hits_-kicks_-and-bites---relax.pdf?Expires=1547251200&Signature=Tt2JKJEOtqse7NDhxN0VbaUWPsaZQOmpwD2a42nhM12jqy0~rTyBMWtKjiW3fmKbr1Fy8cojho5VPqy1SY~tznUlWS8sFpGV9PgS~bASFUCAbY~PDUDFLISKaztL88sa1Gt-SjNbnBgF5zeazzQJyaswi32eXnVSJY46dG0E3Lg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ### Related
 
