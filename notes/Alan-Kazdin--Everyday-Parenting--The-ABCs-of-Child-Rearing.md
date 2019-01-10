@@ -16,6 +16,7 @@
 Figure out a way to:
 * drink more with less resistance.
 * be able to listen a complete short story without much interruption or rushing through pages.
+* get teeth brushed every morning and evening without fuss.
 
 ## Praise
 
