@@ -8,3 +8,8 @@
 ## 🌐 Blog Posts
 
 * [STAMPing On `event-stream`](https://www.hillelwayne.com/post/stamping-on-eventstream/) by [Hillel Wayne](https://twitter.com/hillelogram)
+
+## 📰 Journals
+
+* [Informal Networks: The Company Behind the Chart](https://hbr.org/1993/07/informal-networks-the-company-behind-the-chart)
+* [To Understand Whether Your Company Is Inclusive, Map How Your Employees Interact](https://hbr.org/2017/07/to-understand-whether-your-company-is-inclusive-map-how-your-employees-interact)
