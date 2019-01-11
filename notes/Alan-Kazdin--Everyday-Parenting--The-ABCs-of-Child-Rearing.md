@@ -35,12 +35,12 @@ This will _not_ spoil a child.
 1. routine ("praise in everyday life") ― helps maintaining relationship;
 2. changing/developing behavior ― better suited.
 
-### Features
+### Ingredients
 
-0. SELECT THE BEHAVIOR TO PRAISE (and Look for the desired behavior to appear).
-0. **Very** enthusiastic! ~ Gestures + facial expression + up tone of voice.
-0. State exactly what is being praised. E.g. "Great! You've picked up toys just like I asked you!"
-0. Non-verbal. Hugs, kisses, high-five, etc.
+0. Select the behavior to praise in advance and then look for it to appear.
+0. **Be VERY enthusiastic!** ~ Gestures + facial expression + up tone of voice.
+0. **State exactly what is being praised.** E.g. "Great! You've picked up toys just like I asked you!"
+0. **Use non-verbal supporting actions:** Hugs, kisses, high-five, etc.
 
 ### Effectiveness
 
@@ -67,3 +67,47 @@ A ― B ― C
 
 ## 2. Antecedents
 
+Definition: **Antecedent** is an action or statement that increase the likelyhood the behavior will occur.
+
+Whether the behavior will occur more or less likely depends on the delivery. Half-joke example:
+
+> ― She: If you _really loved me_ you would go to the family event with me.
+> 
+> ― He: If _you really loved me_ you would not even ask me to go.
+
+### Kinds
+
+1. Prompts ― direct ways to guide behavior usually in a form of instruction.
+   * Verbal: "Please put away your toys".
+   * Physical: Walking child to a bathroom to brush teeth holding him/her by hand.
+   * Visual: "Here, let me show you how to brush your teeth."
+2. Positive Setting Events ― indirect ways to guide behavior by setting the stage.
+   * Usually is related to _how_ something is said or presented.
+3. Negative Setting Events ― indirect ways to decrease the behavior you want.
+   * Harsh tone alone or limiting choice are likely to make child not follow instructions. (E.g. "do it because I said so", "I am the parent and you have to do this").
+   * Aggressive orders are not the way to build habits.
+
+### Ingredients
+
+* **Be clear and specific.** General prompts are less effective than the specific ones.
+  - E.g. "Pick up five pieces of cloth before coming to dinner" or "Pick up all clothes from the floor and move them to the laubdry room" are better than "Go clean your room".
+* **Consider how you're making a request.**
+  - Use gentle tone of voice, and matching facial expression to increase the chances of compliance.
+* **Offer choices**. It increases chances child will comply right away.
+* **Say *please***. It may be helpful because it is normally said in soft voice and implies choice.
+* **Offer assistance**. It conveys a gentle mindset, willing to be there, and readiness to attend child. Sometimes, starting a thing is the most difficult part. Start assistance ―> observe when behavior appears ―> withdraw assistance.
+* **Use playful challenge** (or even a couple of time in a raw). Prolong practice and achieve behavior locking earlier. "I bet you can't do it twice in a raw."
+
+### FAQ
+
+> I give prompts all day and trust me they don't work at all.
+
+Well, giving too many prompts too often is called *nagging*.
+
+Prompts get the behavior going but praise is needed to support it.
+
+> How long do I have to keep giving prompts to see the positive results?
+
+Key is: how often can you praise the behavior. When you see behavior after a prompt was given, **praise it**. When you see behavior without a prior prompt, **REALLY PRAISE IT!**
+
+Normally it can take somewhere between 1 to 3 weeks. The tools are **designed for short-term use but they lead to long-term change**.
