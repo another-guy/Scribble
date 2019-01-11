@@ -7,6 +7,7 @@
 
 ## 🌐 Blog Posts
 
+* [Books in Software Architecture](https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce) by [Nikolay Ashanin](https://medium.com/@nvashanin)
 * [STAMPing On `event-stream`](https://www.hillelwayne.com/post/stamping-on-eventstream/) by [Hillel Wayne](https://twitter.com/hillelogram)
 
 ## 📰 Journals
