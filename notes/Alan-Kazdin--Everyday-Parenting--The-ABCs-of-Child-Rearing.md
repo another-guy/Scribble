@@ -111,3 +111,21 @@ Prompts get the behavior going but praise is needed to support it.
 Key is: how often can you praise the behavior. When you see behavior after a prompt was given, **praise it**. When you see behavior without a prior prompt, **REALLY PRAISE IT!**
 
 Normally it can take somewhere between 1 to 3 weeks. The tools are **designed for short-term use but they lead to long-term change**.
+
+## 3. Behaviors ― Shaping
+
+*How can we get to behavior of the child that we'd like to see?*
+
+Definition: **Shaping** is rewarding small steps that begin to approximate (resemble) the desired behavior.
+
+E.g. Start with 10 minutes of homework per day if want to achieve 1 hour. Want a child to clear all the dishes from the dinner table; start with just one.
+
+4:39/13:28 
+
+## 4. Behaviors ― Simulation
+
+...
+
+## 5. Behaviors ― Modeling
+
+...
