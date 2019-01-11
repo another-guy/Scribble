@@ -1,4 +1,4 @@
-# Alan Kazdin: Everyday Parenting: The ABCs of Child Rearing
+# Alan Kazdin: Everyday Parenting: The ABCs of Child Rearing <!-- omit in toc -->
 
 [📺 Course @ Coursera](https://www.coursera.org/learn/everyday-parenting/home/welcome)
 
@@ -6,12 +6,30 @@
 
 [📄 When your kid whines, screams, hits, kicks, and bites ― relax.pdf](https://d18ky98rnyall9.cloudfront.net/_de4bce36c59ac73e0b8436a608b26f88_2005_When-your-kid-whines_screams_hits_-kicks_-and-bites---relax.pdf?Expires=1547251200&Signature=Tt2JKJEOtqse7NDhxN0VbaUWPsaZQOmpwD2a42nhM12jqy0~rTyBMWtKjiW3fmKbr1Fy8cojho5VPqy1SY~tznUlWS8sFpGV9PgS~bASFUCAbY~PDUDFLISKaztL88sa1Gt-SjNbnBgF5zeazzQJyaswi32eXnVSJY46dG0E3Lg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
-### Related
+### Related <!-- omit in toc -->
 
 * Kazdin, A.E. & Rotella, C. (2008). The Kazdin Method for parenting the defiant child: With no pills, no therapy, no contest of wills. Boston: Houghton Mifflin.
 * Kazdin, A.E., & Rotella, C. (2013). The everyday parenting toolkit: The Kazdin Method for easy, step-by-step lasting change for you and your child. Boston: Houghton Mifflin Harcourt.
 
-## _My_ Challenge
+## Table of Content <!-- omit in toc -->
+
+- [Components of behavior development](#components-of-behavior-development)
+- [1. Praise](#1-praise)
+  - [Kinds](#kinds)
+  - [Ingredients](#ingredients)
+  - [Effectiveness](#effectiveness)
+  - [Caution](#caution)
+- [2. Antecedents](#2-antecedents)
+  - [Kinds](#kinds-1)
+  - [Ingredients](#ingredients-1)
+  - [FAQ](#faq)
+- [3. Behaviors ― Shaping](#3-behaviors--shaping)
+  - [Ingredients](#ingredients-2)
+  - [FAQ](#faq-1)
+- [4. Behaviors ― Simulation](#4-behaviors--simulation)
+- [5. Behaviors ― Modeling](#5-behaviors--modeling)
+
+## _My_ Challenge <!-- omit in toc -->
 
 > I encourage you to begin the course with a specific challenge in mind in relation to your child or adolescent.
 
@@ -20,7 +38,17 @@ Figure out a way to:
 * be able to listen a complete short story without much interruption or rushing through pages.
 * get teeth brushed every morning and evening without fuss.
 
-# Week 1
+# Week 1 <!-- omit in toc -->
+
+## Components of behavior development
+
+A ― B ― C
+
+***A*ntecedents** refers to what can be done _before_ behavior takes place to make the desired behaviors more likely to occur.
+
+***B*ehavior** refers to what you can do to get the specific behaviors you wish.
+
+***C*onsequences** is what we do _after_ the behavior is completed.
 
 ## 1. Praise
 
@@ -54,16 +82,6 @@ This will _not_ spoil a child.
 * Do not love depends on behavior. E.g. "Daddy loves you because you did/did not do X" ― BAD!
 * Do not focus on yourself. E.g. "You make daddy happy when you do X" ― BAD!
 * Do not "caboose". I.e. no extra phrases after the praise like "why don't you always do X?" ― BAD!
-
-## Components of behavior development
-
-A ― B ― C
-
-***A*ntecedents** refers to what can be done _before_ behavior takes place to make the desired behaviors more likely to occur.
-
-***B*ehavior** refers to what you can do to get the specific behaviors you wish.
-
-***C*onsequences** is what we do _after_ the behavior is completed.
 
 ## 2. Antecedents
 
