@@ -118,9 +118,30 @@ Normally it can take somewhere between 1 to 3 weeks. The tools are **designed fo
 
 Definition: **Shaping** is rewarding small steps that begin to approximate (resemble) the desired behavior.
 
-E.g. Start with 10 minutes of homework per day if want to achieve 1 hour. Want a child to clear all the dishes from the dinner table; start with just one.
+E.g. Start with 10 minutes of homework per day if want to achieve 1 hour. Want a child to clear all the dishes from the dinner table => start with just one.
 
-4:39/13:28 
+> When you develop _listening to you_ or _complience_ in one place, it carries over to other places.
+
+Give special praise child for showing the behavior for _easy_ requests first. This will increase chances of behavior in other situtaions.
+
+### Ingredients
+
+* Choose behaviors you'd like
+* Select a small step
+* Choose the consequence you will use (praise or points)
+* Notice and reinforce the instances of behavior
+* When behavior instances occur consistently, make the requirement slightly bigger
+  * if you _don't_ see the progress, try to make the requirement smaller
+
+### FAQ
+
+> Why do I need to do shaping at all, my child knows how to do the behavior?
+
+Knowing is not the same as doing. The idea is to make the child practicing the behavior and carry it over to different contexts.
+
+> What if my child does not even do the first step in shaping?
+
+Make the step smaller. Provide a little help to get things going ― it is totally fine. If it does not work still, try to use the [`Simulation technique`](#4-behaviors--simulation).
 
 ## 4. Behaviors ― Simulation
 
