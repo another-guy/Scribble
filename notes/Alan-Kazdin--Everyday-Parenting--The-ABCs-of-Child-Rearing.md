@@ -89,7 +89,10 @@ This will _not_ spoil a child.
 * Timely, ideally praise immediately after the desired behavior occured.
 * Praise even the small increments of behavior.
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 
 ### Caution <!-- omit in toc -->
 
@@ -147,7 +150,10 @@ Half-joke example:
    Prolong practice and achieve behavior locking earlier.
    "I bet you can't do it twice in a raw."
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 
 ### FAQ <!-- omit in toc -->
 
@@ -191,7 +197,10 @@ This will increase chances of behavior in other situtaions.
 * When behavior instances occur consistently, make the requirement slightly .bigger
   * if you _don't_ see the progress, try to make the requirement smaller.
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 
 ### FAQ <!-- omit in toc -->
 
@@ -239,7 +248,10 @@ Make it fun!
 * Praise effusively.
 * Use a playful challenge to repeat the practice one or two times.
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 
 ### FAQ <!-- omit in toc -->
 
@@ -286,7 +298,10 @@ Remember to converse with the child about what is going on in your life.
 If nothing happened today, tell a story about the past.
 This sets and example of openness and willing to talk that the child will likely follow.
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 
 * TODO Alcohol abuse.
 * TODO Parent shouting at children on the beach.
@@ -318,7 +333,10 @@ What parents or other important people do is more likely to be picked up than wh
 
 ### Definition <!-- omit in toc -->
 ### Ingredients <!-- omit in toc -->
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
 
@@ -326,7 +344,10 @@ What parents or other important people do is more likely to be picked up than wh
 
 ### Definition <!-- omit in toc -->
 ### Ingredients <!-- omit in toc -->
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
 
@@ -334,7 +355,10 @@ What parents or other important people do is more likely to be picked up than wh
 
 ### Definition <!-- omit in toc -->
 ### Ingredients <!-- omit in toc -->
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
 
@@ -378,9 +402,9 @@ I.e. the effects are immediate but not enduring.
    * Similarly, the activity that is being used as a punishment may start being avoided too, however it actually may be a desired activity which we want children to like, such as doing (extra) homework, exercising, and so on.
 3. Increase in aggressive behavior with you.
    That applies to contacts or any force applied during punishment.
-   E.g. hitting, holding tight, physically force the child to Time Out (TODO_REF) all lead to aggression.
+   E.g. hitting, holding tight, physically force the child to [**Time Out**](#10-consequences--time-out-from-reinforcement) all lead to aggression.
 4. Increase in aggressive behavior with others.
-   Punish technique models (TODO_REF) the child tends to use with his/her peers.
+   Punish technique [**models**](#5-behaviors--modeling) the child tends to use with his/her peers.
    E.g. punishment by hitting ⟶ fights on playground, punishment byshouting ⟶ yelling at school.
 
 ### Ingredients <!-- omit in toc -->
@@ -390,27 +414,93 @@ The **effective** punishment uses the following is done like this:
 * Select a behavior to decrease.
    Writing down is a good idea.
 * Identify the positive opposite of this behavior.
-   It is even more important to write it down so that you know how you will be attending (TODO_REF) and praising (TODO_REF) them.
+   It is even more important to write it down so that you know how you will be [**attending**](#8-consequences--attending--planned-ignoring) and [**praising**](#1-praise) them.
 * Reward the positive opposite.
 * Select a brief punishment *ahead of time*.
    E.g. time out, loss of privilege.
    **KEEP THE PUNISHMENT MILD.**
 * Praise much more often than punish.
 
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
 
 ## 10. Consequences ― Time Out from Reinforcement
 
 ### Definition <!-- omit in toc -->
+
+**`Time Out of Reinforcement`** ― a brief period of time in which the child does not have access to the usual rewards in the situation.
+
+It's a break from the attention and rewards available.
+Examples of such rewards can be just being in the presence of others; receiving parent/peer attention; or participating in an ongoing game.
+
+When in time out place, the child can not participate in activities and is not engaged into any conversations with anyone.
+Time out is NOT related to thinking about what was done wrong, because it does not help building habits or change behavior.
+
+During the time out the child should be let alone, but safe and supervised.
+No talking.
+No playing.
+The time out place should not offer interesting activities; ideally it's a boring place.
+
+Remember, however, that time out can only suppress the negative behavior but *does not teach* the positive one.
+
 ### Ingredients <!-- omit in toc -->
-### TODO-EXAMPLE <!-- omit in toc -->
-### FAQ <!-- omit in toc -->
+
+* Decide what warrants a time out.
+  * The child should know what those punishable behaviors are.
+  Be explicit and specific about it.
+  Write them down.
+* Decide where to have a time out.
+  * Should be boring but safe place that allows supervising.
+* Decide the duration of a timeout.
+  * 2 to 5 minutes work fine.
+  10 minutes is a practical maximum.
+* Have a back up punishing event in case the child does not go to time out.
+  * Be ready to take a way something.
+  Offer a choice in a calm manner.
+  E.g. if you don't go to time out now, you're not watching TV tonight.
+  If the child does not comply, announce the immediate punishment and go away: Okay, you're not watching TV tonight.
+  No arguments ― it's too late.
+* Explain how time out works.
+  * Do it just to practice compliance in a tension-free environment.
+* Keep an eye on the positive opposite behaviors during the *time in* and praise them.
+
+### EXAMPLE <!-- omit in toc -->
+
 ### Caution <!-- omit in toc -->
+
+* Do NOT physically force your child to go to time out.
+  * It only leads to aggression, fights, and is not helpful in any way.
+* Do NOT lock your child in a room for a time out.
+  * Locking leads to escalation of aggressive behavior, crying, and tantrums.
+  The child will naturally try to get out which is a normal reaction to being locked in any place.
+  * You may use a warning ONCE of taking away a privilege if the child leaves time out.
+  If the warning does not work, use taking away the privilege as a punishment.
+* Walking away *is HARD*.
+  Practice it. Not getting into arguments is crucial.
+* **`Time In`** is used to develop the positive behavior while child is not in time out.
+  It is natural to neglet the good behavior we see.
+  Time in requires careful attention.
+  * Moreover, the total praise should *outweight* the punishments in order to build a habit.
+
+### FAQ <!-- omit in toc -->
+
+> So is using time outs really an effective tool to change behavior?
+
+It depends on how it's used actually.
+Time out should be coupled with time in to be efficient.
+
+> Why are the brief time outs recommended for changing the behavior?
+
+The researches show that prolonged time outs (> 10 minutes) do not result in bigger or prolonged positive effects at all.
 
 ## 11. Consequences ― Spanking and Alternatives
 
 ### Definition <!-- omit in toc -->
 ### Ingredients <!-- omit in toc -->
-### TODO-EXAMPLE <!-- omit in toc -->
+### EXAMPLE <!-- omit in toc -->
+
+TODO
+
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
