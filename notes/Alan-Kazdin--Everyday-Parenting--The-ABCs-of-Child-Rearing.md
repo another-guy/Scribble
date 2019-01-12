@@ -8,38 +8,84 @@
 
 ### Related <!-- omit in toc -->
 
-* Kazdin, A.E. & Rotella, C. (2008). The Kazdin Method for parenting the defiant child: With no pills, no therapy, no contest of wills. Boston: Houghton Mifflin.
-* Kazdin, A.E., & Rotella, C. (2013). The everyday parenting toolkit: The Kazdin Method for easy, step-by-step lasting change for you and your child. Boston: Houghton Mifflin Harcourt.
+* Kazdin, A.E. & Rotella, C. (2008).
+  The Kazdin Method for parenting the defiant child: With no pills, no therapy, no contest of wills.
+  Boston: Houghton Mifflin.
+* Kazdin, A.E., & Rotella, C. (2013).
+  The everyday parenting toolkit: The Kazdin Method for easy, step-by-step lasting change for you and your child.
+  Boston: Houghton Mifflin Harcourt.
 
 ## Table of Content <!-- omit in toc -->
 
 * [Key Ideas](#key-ideas)
 * [Components of behavior development](#components-of-behavior-development)
 * [1. Praise](#1-praise)
+  * [Definition](#definition)
   * [Kinds](#kinds)
   * [Ingredients](#ingredients)
   * [Effectiveness](#effectiveness)
   * [TODO-EXAMPLE](#todo-example)
   * [Caution](#caution)
 * [2. Antecedents](#2-antecedents)
+  * [Definition](#definition-1)
   * [Kinds](#kinds-1)
   * [Ingredients](#ingredients-1)
   * [TODO-EXAMPLE](#todo-example-1)
   * [FAQ](#faq)
 * [3. Behaviors ― Shaping](#3-behaviors--shaping)
+  * [Definition](#definition-2)
   * [Ingredients](#ingredients-2)
   * [TODO-EXAMPLE](#todo-example-2)
   * [FAQ](#faq-1)
   * [Caution](#caution-1)
 * [4. Behaviors ― Simulation](#4-behaviors--simulation)
+  * [Definition](#definition-3)
   * [Ingredients](#ingredients-3)
   * [TODO-EXAMPLE](#todo-example-3)
   * [FAQ](#faq-2)
   * [Caution](#caution-2)
 * [5. Behaviors ― Modeling](#5-behaviors--modeling)
+  * [Definition](#definition-4)
+  * [Ingredients](#ingredients-4)
+  * [TODO-EXAMPLE](#todo-example-4)
+  * [FAQ](#faq-3)
 * [6. Consequences ― Positive Opposite](#6-consequences--positive-opposite)
+  * [Definition](#definition-5)
+  * [Ingredients](#ingredients-5)
+  * [TODO-EXAMPLE](#todo-example-5)
+  * [FAQ](#faq-4)
+  * [Caution](#caution-3)
 * [7. Consequences ― Point Programs](#7-consequences--point-programs)
+  * [Definition](#definition-6)
+  * [Ingredients](#ingredients-6)
+  * [TODO-EXAMPLE](#todo-example-6)
+  * [FAQ](#faq-5)
+  * [Caution](#caution-4)
 * [8. Consequences ― Attending & Planned Ignoring](#8-consequences--attending--planned-ignoring)
+  * [Definition](#definition-7)
+  * [Ingredients](#ingredients-7)
+  * [TODO-EXAMPLE](#todo-example-7)
+  * [FAQ](#faq-6)
+  * [Caution](#caution-5)
+* [9. Consequences ― Punishment Basics](#9-consequences--punishment-basics)
+  * [Definition](#definition-8)
+  * [Kinds](#kinds-2)
+  * [Direct Effects](#direct-effects)
+  * [Negative Side Effects](#negative-side-effects)
+  * [Ingredients](#ingredients-8)
+  * [TODO-EXAMPLE](#todo-example-8)
+* [10. Consequences ― Time Out from Reinforcement](#10-consequences--time-out-from-reinforcement)
+  * [Definition](#definition-9)
+  * [Ingredients](#ingredients-9)
+  * [TODO-EXAMPLE](#todo-example-9)
+  * [FAQ](#faq-7)
+  * [Caution](#caution-6)
+* [11. Consequences ― Spanking and Alternatives](#11-consequences--spanking-and-alternatives)
+  * [Definition](#definition-10)
+  * [Ingredients](#ingredients-10)
+  * [TODO-EXAMPLE](#todo-example-10)
+  * [FAQ](#faq-8)
+  * [Caution](#caution-7)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -69,7 +115,12 @@ A ― B ― C
 
 ## 1. Praise
 
-Definition: **Praise** is a way of expressing one's approval. It's a temporary program to make permanent changes. Get the behavior, then you stop praising for that. It is _a_ tool among others ― don't expect it to work alone.
+### Definition
+
+**`Praise`** is a way of expressing one's approval.
+It's a temporary program to make permanent changes.
+Get the behavior, then you stop praising for that.
+It is _a_ tool among others ― don't expect it to work alone.
 
 Mechanics: Support repeated practice to build habit(s).
 
@@ -82,10 +133,12 @@ This will _not_ spoil a child.
 
 ### Ingredients
 
-0. Select the behavior to praise in advance and then look for it to appear.
-0. **Be VERY enthusiastic!** ~ Gestures + facial expression + up tone of voice.
-0. **State exactly what is being praised.** E.g. "Great! You've picked up toys just like I asked you!"
-0. **Use non-verbal supporting actions:** Hugs, kisses, high-five, etc.
+* Select the behavior to praise in advance and then look for it to appear.
+* **Be VERY enthusiastic!**
+   ~ Gestures + facial expression + up tone of voice.
+* **State exactly what is being praised.**
+   E.g. "Great! You've picked up toys just like I asked you!"
+* **Use non-verbal supporting actions:** Hugs, kisses, high-five, etc.
 
 ### Effectiveness
 
@@ -97,16 +150,23 @@ This will _not_ spoil a child.
 ### Caution
 
 * Do not apply routine praise to change behavior ― it doesn't work that way.
-* Do not praise the person. E.g. "You're a good girl because you did/did not do X" ― BAD!
-* Do not love depends on behavior. E.g. "Daddy loves you because you did/did not do X" ― BAD!
-* Do not focus on yourself. E.g. "You make daddy happy when you do X" ― BAD!
-* Do not "caboose". I.e. no extra phrases after the praise like "why don't you always do X?" ― BAD!
+* Do not praise the person.
+   E.g. "You're a good girl because you did/did not do X" ― BAD!
+* Do not love depends on behavior.
+   E.g. "Daddy loves you because you did/did not do X" ― BAD!
+* Do not focus on yourself.
+   E.g. "You make daddy happy when you do X" ― BAD!
+* Do not "caboose".
+   I.e. no extra phrases after the praise like "why don't you always do X?" ― BAD!
 
 ## 2. Antecedents
 
-Definition: **Antecedent** is an action or statement that increase the likelyhood the behavior will occur.
+### Definition
 
-Whether the behavior will occur more or less likely depends on the delivery. Half-joke example:
+**`Antecedent`** is an action or statement that increase the likelyhood the behavior will occur.
+
+Whether the behavior will occur more or less likely depends on the delivery.
+Half-joke example:
 
 > ― She: If you _really loved me_ you would go to the family event with me.
 > 
@@ -121,19 +181,27 @@ Whether the behavior will occur more or less likely depends on the delivery. Hal
 2. Positive Setting Events ― indirect ways to guide behavior by setting the stage.
    * Usually is related to _how_ something is said or presented.
 3. Negative Setting Events ― indirect ways to decrease the behavior you want.
-   * Harsh tone alone or limiting choice are likely to make child not follow instructions. (E.g. "do it because I said so", "I am the parent and you have to do this").
+   * Harsh tone alone or limiting choice are likely to make child not follow instructions. E.g. "do it because I said so", "I am the parent and you have to do this".
    * Aggressive orders are not the way to build habits.
 
 ### Ingredients
 
-* **Be clear and specific.** General prompts are less effective than the specific ones.
+* **Be clear and specific.**
+  General prompts are less effective than the specific ones.
   - E.g. "Pick up five pieces of cloth before coming to dinner" or "Pick up all clothes from the floor and move them to the laubdry room" are better than "Go clean your room".
 * **Consider how you're making a request.**
   - Use gentle tone of voice, and matching facial expression to increase the chances of compliance.
-* **Offer choices**. It increases chances child will comply right away.
-* **Say *please***. It may be helpful because it is normally said in soft voice and implies choice.
-* **Offer assistance**. It conveys a gentle mindset, willing to be there, and readiness to attend child. Sometimes, starting a thing is the most difficult part. Start assistance ―> observe when behavior appears ―> withdraw assistance.
-* **Use playful challenge** (or even a couple of time in a raw). Prolong practice and achieve behavior locking earlier. "I bet you can't do it twice in a raw."
+* **Offer choices**.
+   It increases chances child will comply right away.
+* **Say *please***.
+   It may be helpful because it is normally said in soft voice and implies choice.
+* **Offer assistance**.
+   It conveys a gentle mindset, willing to be there, and readiness to attend child.
+   Sometimes, starting a thing is the most difficult part.
+   Start assistance ―> observe when behavior appears ―> withdraw assistance.
+* **Use playful challenge** (or even a couple of time in a raw).
+   Prolong practice and achieve behavior locking earlier.
+   "I bet you can't do it twice in a raw."
 
 ### TODO-EXAMPLE
 
@@ -147,21 +215,28 @@ Prompts get the behavior going but praise is needed to support it.
 
 > How long do I have to keep giving prompts to see the positive results?
 
-Key is: how often can you praise the behavior. When you see behavior after a prompt was given, **praise it**. When you see behavior without a prior prompt, **REALLY PRAISE IT!**
+Key is: how often can you praise the behavior.
+When you see behavior after a prompt was given, **praise it**.
+When you see behavior without a prior prompt, **REALLY PRAISE IT!**
 
-Normally it can take somewhere between 1 to 3 weeks. The tools are **designed for short-term use but they lead to long-term change**.
+Normally it can take somewhere between 1 to 3 weeks.
+The tools are **designed for short-term use but they lead to long-term change**.
 
 ## 3. Behaviors ― Shaping
 
 *How can we get to behavior of the child that we'd like to see?*
 
-Definition: **Shaping** is rewarding small steps that begin to approximate (resemble) the desired behavior.
+### Definition
 
-E.g. Start with 10 minutes of homework per day if want to achieve 1 hour. Want a child to clear all the dishes from the dinner table => start with just one.
+**`Shaping`** is rewarding small steps that begin to approximate (resemble) the desired behavior.
+
+E.g. Start with 10 minutes of homework per day if want to achieve 1 hour.
+Want a child to clear all the dishes from the dinner table => start with just one.
 
 > When you develop _listening to you_ or _complience_ in one place, it carries over to other places.
 
-Give special praise child for showing the behavior for _easy_ requests first. This will increase chances of behavior in other situtaions.
+Give special praise child for showing the behavior for _easy_ requests first.
+This will increase chances of behavior in other situtaions.
 
 ### Ingredients
 
@@ -182,7 +257,8 @@ Knowing is not the same as doing. The idea is to make the child practicing the b
 
 > What if my child does not even do the first step in shaping?
 
-Make the step smaller. Provide a little help to get things going ― it is totally fine. If it does not work still, try to use the [`Simulation technique`](#4-behaviors--simulation).
+Make the step smaller.
+Provide a little help to get things going ― it is totally fine. If it does not work still, try to use the [**Simulation technique**](#4-behaviors--simulation).
 
 ### Caution
 
@@ -196,11 +272,13 @@ Avoid ineffective use!
 
 ## 4. Behaviors ― Simulation
 
-Definition: **Simulation** consists of making up practice opportunities to engage in the behavior in game-like, role-play, pretend situation.
+### Definition
+
+**`Simulation`** consists of making up practice opportunities to engage in the behavior in game-like, role-play, pretend situation.
 
 It is intended to getting the behavior you'd like to see in your child (Or stop the behavior you don't want the child to do which she is doing a lot).
 
-Simulation uses [antecedents](#2-Antecedents), [praises](#1-Praise), [points](#7-Consequences--Point-Programs), and developing [positive opposites](#6-Consequences--Positive-Opposite) techniques.
+Simulation uses [**antecedents**](#2-Antecedents), [**praises**](#1-Praise), [**points**](#7-Consequences--Point-Programs), and developing [**positive opposites**](#6-Consequences--Positive-Opposite) techniques.
 
 The idea is to build the behavior in artificial environment and then carry it over to real life situations.
 
@@ -208,7 +286,8 @@ For the simulation is important _how_ you do things, not just what you do.
 
 ### Ingredients
 
-**Prerequisite**: Pressure-free, anxiety-free environment and time. Make it fun!
+**Prerequisite**: Pressure-free, anxiety-free environment and time.
+Make it fun!
 
 * Choose a behavior to be corrected.
 * Explain the game clearly.
@@ -222,19 +301,172 @@ For the simulation is important _how_ you do things, not just what you do.
 
 > If it looks so fake, how can it teach the behavior that will be used in every day situations?
 
-Practice makes habits. Habits do carry over from one situation to another.
+Practice makes habits.
+Habits do carry over from one situation to another.
 
 > How often should I play the game?
 
-Maybe one time a day. Try including a challenge to repat the game. Do praise the instances the behavior when you see them.
+Maybe one time a day.
+Try including a challenge to repat the game.
+Do praise the instances the behavior when you see them.
 
 ### Caution
 ...
 
 ## 5. Behaviors ― Modeling
-...
 
+### Definition
+
+**`Modeling`** is a systematic tool that incorporates learning by observing and seeing the behavior of others rather than performing that behavior.
+
+As it was said earlier, practice is crucial for learning, however the _initial learning_ often comes from observing.
+
+Accidental observation of some behavior _is_ an example of modeling too.
+E.g. daddy sweard,then the baby repeats the bad word.
+Another example: children discipline their peers the same way their parents discipline them.
+
+Children learn from diffent observed people, but parents modeling influence is the greatest due to the role in the child's life, the amount of time spent together, and the special relationship.
+
+### Ingredients
+
+* Select a characteristic to be developed.
+* Define the characteristic by listing examples.
+  * A few _concrete_ samples will suffice.
+  The picked-up knowledge will be inferred, and carried over from the examples provided.
+* Model the behavior as the occasions arise.
+   Mentioned what you did when you're modeling the behavior.
+* Praise any instance when child practices the bahavior.
+
+Related: **Askable parent** ― a parent child can come to ask about anything.
+Remember to converse with the child about what is going on in your life.
+If nothing happened today, tell a story about the past.
+This sets and example of openness and willing to talk that the child will likely follow.
+
+### TODO-EXAMPLE
+
+* TODO Alcohol abuse.
+* TODO Parent shouting at children on the beach.
+
+### FAQ
+
+> How effective is modeling in changing my child?
+
+No guarantees here.
+Children have different behavioral tendencies and parents can't change everything they want just because they provide modeling opportunities.
+But parents are greatly increasing the chances of the positive changes in behavior.
+Targeted modeling coupled with appropriate praise can be very efficient.
+
+> How will I know modeling is working at all?
+
+The efficiency of modeling depends on how often the desired behavior is demonstrated.
+Sometimes, the child picks it up right away, but often it takes some time to develop.
+Some behaviors occur very late in child's life, even when get their own children.
+
+> Is there a way to determine which of my behaviors will be picked up by my child?
+
+Probably not.
+However, the most frequently demonstrated behaviors are the most likely to be learned.
+What parents or other important people do is more likely to be picked up than what less important people do.
+
+# Week 2 <!-- omit in toc -->
 
 ## 6. Consequences ― Positive Opposite
+
+### Definition
+### Ingredients
+### TODO-EXAMPLE
+### FAQ
+### Caution
+
 ## 7. Consequences ― Point Programs
+
+### Definition
+### Ingredients
+### TODO-EXAMPLE
+### FAQ
+### Caution
+
 ## 8. Consequences ― Attending & Planned Ignoring
+
+### Definition
+### Ingredients
+### TODO-EXAMPLE
+### FAQ
+### Caution
+
+## 9. Consequences ― Punishment Basics
+
+### Definition
+
+**`Punishment`** is any consequence that follows behavior and decreases or is intended to decrease the likelihood of the behavior in the future.
+
+It is important to understand all the effects of punishment.
+Keep in mind is not an efficient tool with dangers associated.
+It should only be administered as a supplement to other techniques.
+
+### Kinds
+
+1. Presenting something undesireable or negative after a behavior occurs.
+   E.g. Reprimands, shouting, hitting.
+2. Taking away something positive after a behavior.
+   E.g. Taking away an activity, privilege, or event.
+   In [**points program**](#7-Consequences--Point-Programs) ― the points can be taken away.
+3. Using some effort or some task to be performed.
+   E.g. a chore, or cleaning up something.
+
+### Direct Effects
+
+1. Stop the behavior *in the moment* of the interruption.
+2. Does **not** stop the behavior beyond the moment.
+   The child will keep engaging into the behavior in future.
+3. Parents tend to escalate the intencity and frequency or both over time.
+   Such escalation increases crying and pain associated with the punishment but does **not** increase the effectiveness or teaches the behavior you'd like.
+
+I.e. the effects are immediate but not enduring.
+
+### Negative Side Effects
+
+1. Emotional reactions.
+   E.g. crying, arguing, striking a parent.
+2. Escape and avoidance.
+   * When a parent delivers more punishment than praise, the child often try to distance themselves from the persons who punish them, both physically and psychologically.
+   This straints the relationship between a parent and a child.
+   * Similarly, the activity that is being used as a punishment may start being avoided too, however it actually may be a desired activity which we want children to like, such as doing (extra) homework, exercising, and so on.
+3. Increase in aggressive behavior with you.
+   That applies to contacts or any force applied during punishment.
+   E.g. hitting, holding tight, physically force the child to Time Out (TODO_REF) all lead to aggression.
+4. Increase in aggressive behavior with others.
+   Punish technique models (TODO_REF) the child tends to use with his/her peers.
+   E.g. punishment by hitting ⟶ fights on playground, punishment byshouting ⟶ yelling at school.
+
+### Ingredients
+
+The **effective** punishment uses the following is done like this:
+
+* Select a behavior to decrease.
+   Writing down is a good idea.
+* Identify the positive opposite of this behavior.
+   It is even more important to write it down so that you know how you will be attending (TODO_REF) and praising (TODO_REF) them.
+* Reward the positive opposite.
+* Select a brief punishment *ahead of time*.
+   E.g. time out, loss of privilege.
+   **KEEP THE PUNISHMENT MILD.**
+* Praise much more often than punish.
+
+### TODO-EXAMPLE
+
+## 10. Consequences ― Time Out from Reinforcement
+
+### Definition
+### Ingredients
+### TODO-EXAMPLE
+### FAQ
+### Caution
+
+## 11. Consequences ― Spanking and Alternatives
+
+### Definition
+### Ingredients
+### TODO-EXAMPLE
+### FAQ
+### Caution
