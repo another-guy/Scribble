@@ -482,6 +482,7 @@ Remember, however, that time out can only suppress the negative behavior but *do
   It is natural to neglet the good behavior we see.
   Time in requires careful attention.
   * Moreover, the total praise should *outweight* the punishments in order to build a habit.
+  * If the punishement is happening very frequently, it is a signal that praise is not happening often enough.
 
 ### FAQ <!-- omit in toc -->
 
@@ -493,6 +494,8 @@ Time out should be coupled with time in to be efficient.
 > Why are the brief time outs recommended for changing the behavior?
 
 The researches show that prolonged time outs (> 10 minutes) do not result in bigger or prolonged positive effects at all.
+
+We also want child as soon as possible back into the normal situation so that positive reinforcement gets a chance of happening.
 
 ## 11. Consequences ― Spanking and Alternatives
 
