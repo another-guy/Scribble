@@ -32,10 +32,10 @@
   * [FAQ](#faq-1)
   * [Caution](#caution-1)
 * [4. Behaviors ― Simulation](#4-behaviors--simulation)
-* [Ingredients](#ingredients-3)
+  * [Ingredients](#ingredients-3)
   * [TODO-EXAMPLE](#todo-example-3)
-* [FAQ](#faq-2)
-* [Caution](#caution-2)
+  * [FAQ](#faq-2)
+  * [Caution](#caution-2)
 * [5. Behaviors ― Modeling](#5-behaviors--modeling)
 * [6. Consequences ― Positive Opposite](#6-consequences--positive-opposite)
 * [7. Consequences ― Point Programs](#7-consequences--point-programs)
@@ -206,7 +206,7 @@ The idea is to build the behavior in artificial environment and then carry it ov
 
 For the simulation is important _how_ you do things, not just what you do.
 
-## Ingredients
+### Ingredients
 
 **Prerequisite**: Pressure-free, anxiety-free environment and time. Make it fun!
 
@@ -218,7 +218,7 @@ For the simulation is important _how_ you do things, not just what you do.
 
 ### TODO-EXAMPLE
 
-## FAQ
+### FAQ
 
 > If it looks so fake, how can it teach the behavior that will be used in every day situations?
 
@@ -228,7 +228,7 @@ Practice makes habits. Habits do carry over from one situation to another.
 
 Maybe one time a day. Try including a challenge to repat the game. Do praise the instances the behavior when you see them.
 
-## Caution
+### Caution
 ...
 
 ## 5. Behaviors ― Modeling
