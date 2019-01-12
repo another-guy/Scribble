@@ -13,20 +13,29 @@
 
 ## Table of Content <!-- omit in toc -->
 
+- [Key Ideas](#key-ideas)
 - [Components of behavior development](#components-of-behavior-development)
 - [1. Praise](#1-praise)
   - [Kinds](#kinds)
   - [Ingredients](#ingredients)
   - [Effectiveness](#effectiveness)
+  - [TODO-EXAMPLE](#todo-example)
   - [Caution](#caution)
 - [2. Antecedents](#2-antecedents)
   - [Kinds](#kinds-1)
   - [Ingredients](#ingredients-1)
+  - [TODO-EXAMPLE](#todo-example-1)
   - [FAQ](#faq)
 - [3. Behaviors ― Shaping](#3-behaviors--shaping)
   - [Ingredients](#ingredients-2)
+  - [TODO-EXAMPLE](#todo-example-2)
   - [FAQ](#faq-1)
+  - [Caution](#caution-1)
 - [4. Behaviors ― Simulation](#4-behaviors--simulation)
+- [Ingredients](#ingredients-3)
+  - [TODO-EXAMPLE](#todo-example-3)
+- [FAQ](#faq-2)
+- [Caution](#caution-2)
 - [5. Behaviors ― Modeling](#5-behaviors--modeling)
 
 ## _My_ Challenge <!-- omit in toc -->
@@ -37,6 +46,11 @@ Figure out a way to:
 * drink more with less resistance.
 * be able to listen a complete short story without much interruption or rushing through pages.
 * get teeth brushed every morning and evening without fuss.
+
+## Key Ideas
+
+* **Temporary tools to achieve permanent effects**.
+* **It is _Practice_ that builds habits of doing good things/not doing bad things**.
 
 # Week 1 <!-- omit in toc -->
 
@@ -74,6 +88,8 @@ This will _not_ spoil a child.
 
 * Timely, ideally praise immediately after the desired behavior occured.
 * Praise even the small increments of behavior.
+
+### TODO-EXAMPLE
 
 ### Caution
 
@@ -116,6 +132,8 @@ Whether the behavior will occur more or less likely depends on the delivery. Hal
 * **Offer assistance**. It conveys a gentle mindset, willing to be there, and readiness to attend child. Sometimes, starting a thing is the most difficult part. Start assistance ―> observe when behavior appears ―> withdraw assistance.
 * **Use playful challenge** (or even a couple of time in a raw). Prolong practice and achieve behavior locking earlier. "I bet you can't do it twice in a raw."
 
+### TODO-EXAMPLE
+
 ### FAQ
 
 > I give prompts all day and trust me they don't work at all.
@@ -144,12 +162,14 @@ Give special praise child for showing the behavior for _easy_ requests first. Th
 
 ### Ingredients
 
-* Choose behaviors you'd like
-* Select a small step
-* Choose the consequence you will use (praise or points)
-* Notice and reinforce the instances of behavior
-* When behavior instances occur consistently, make the requirement slightly bigger
-  * if you _don't_ see the progress, try to make the requirement smaller
+* Choose behaviors you'd like.
+* Select a small step.
+* Choose the consequence you will use (praise or points).
+* Notice and reinforce the instances of behavior.
+* When behavior instances occur consistently, make the requirement slightly .bigger
+  * if you _don't_ see the progress, try to make the requirement smaller.
+
+### TODO-EXAMPLE
 
 ### FAQ
 
@@ -161,10 +181,57 @@ Knowing is not the same as doing. The idea is to make the child practicing the b
 
 Make the step smaller. Provide a little help to get things going ― it is totally fine. If it does not work still, try to use the [`Simulation technique`](#4-behaviors--simulation).
 
+### Caution
+
+Avoid ineffective use!
+
+* Do not set bar too high in the beginning.
+* Avoid "slippery slope thinking".
+  > "If I have to help little now, I will need to always keep helping".
+  This is not true at all.
+* Remember to praise but understand that shaping is not done for praise but for repetative practice and building a habit.
+
 ## 4. Behaviors ― Simulation
 
+Definition: **Simulation** consists of making up practice opportunities to engage in the behavior in game-like, role-play, pretend situation.
+
+It is intended to getting the behavior you'd like to see in your child (Or stop the behavior you don't want the child to do which she is doing a lot).
+
+Simulation uses [antecedents](#2-Antecedents), [praises](#1-Praise), [points](#7-Consequences-Point-Programs), and developing positive opposites.
+
+The idea is to build the behavior in artificial environment and then carry it over to real life situations.
+
+For the simulation is important _how_ you do things, not just what you do.
+
+## Ingredients
+
+**Prerequisite**: Pressure-free, anxiety-free environment and time. Make it fun!
+
+* Choose a behavior to be corrected.
+* Explain the game clearly.
+* Play the game.
+* Praise effusively.
+* Use a playful challenge to repeat the practice one or two times.
+
+### TODO-EXAMPLE
+
+## FAQ
+
+> If it looks so fake, how can it teach the behavior that will be used in every day situations?
+
+Practice makes habits. Habits do carry over from one situation to another.
+
+> How often should I play the game?
+
+Maybe one time a day. Try including a challenge to repat the game. Do praise the instances the behavior when you see them.
+
+## Caution
 ...
 
 ## 5. Behaviors ― Modeling
-
 ...
+
+
+## 6. Consequences ― Positive Opposite
+## 7. Consequences ― Point Programs
+## 8. Consequences ― Attending & Planned Ignoring
