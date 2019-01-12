@@ -456,7 +456,7 @@ Remember, however, that time out can only suppress the negative behavior but *do
   * 2 to 5 minutes work fine.
   10 minutes is a practical maximum.
 * Have a back up punishing event in case the child does not go to time out.
-  * Be ready to take a way something.
+  * Be ready to take away something.
   Offer a choice in a calm manner.
   E.g. if you don't go to time out now, you're not watching TV tonight.
   If the child does not comply, announce the immediate punishment and go away: Okay, you're not watching TV tonight.
