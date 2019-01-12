@@ -6,7 +6,7 @@
 
 [📄 When your kid whines, screams, hits, kicks, and bites ― relax.pdf](https://d18ky98rnyall9.cloudfront.net/_de4bce36c59ac73e0b8436a608b26f88_2005_When-your-kid-whines_screams_hits_-kicks_-and-bites---relax.pdf?Expires=1547251200&Signature=Tt2JKJEOtqse7NDhxN0VbaUWPsaZQOmpwD2a42nhM12jqy0~rTyBMWtKjiW3fmKbr1Fy8cojho5VPqy1SY~tznUlWS8sFpGV9PgS~bASFUCAbY~PDUDFLISKaztL88sa1Gt-SjNbnBgF5zeazzQJyaswi32eXnVSJY46dG0E3Lg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
-### Related <!-- omit in toc -->
+### Related <!-- omit in toc --> <!-- omit in toc -->
 
 * Kazdin, A.E. & Rotella, C. (2008).
   The Kazdin Method for parenting the defiant child: With no pills, no therapy, no contest of wills.
@@ -20,72 +20,16 @@
 * [Key Ideas](#key-ideas)
 * [Components of behavior development](#components-of-behavior-development)
 * [1. Praise](#1-praise)
-  * [Definition](#definition)
-  * [Kinds](#kinds)
-  * [Ingredients](#ingredients)
-  * [Effectiveness](#effectiveness)
-  * [TODO-EXAMPLE](#todo-example)
-  * [Caution](#caution)
 * [2. Antecedents](#2-antecedents)
-  * [Definition](#definition-1)
-  * [Kinds](#kinds-1)
-  * [Ingredients](#ingredients-1)
-  * [TODO-EXAMPLE](#todo-example-1)
-  * [FAQ](#faq)
 * [3. Behaviors ― Shaping](#3-behaviors--shaping)
-  * [Definition](#definition-2)
-  * [Ingredients](#ingredients-2)
-  * [TODO-EXAMPLE](#todo-example-2)
-  * [FAQ](#faq-1)
-  * [Caution](#caution-1)
 * [4. Behaviors ― Simulation](#4-behaviors--simulation)
-  * [Definition](#definition-3)
-  * [Ingredients](#ingredients-3)
-  * [TODO-EXAMPLE](#todo-example-3)
-  * [FAQ](#faq-2)
-  * [Caution](#caution-2)
 * [5. Behaviors ― Modeling](#5-behaviors--modeling)
-  * [Definition](#definition-4)
-  * [Ingredients](#ingredients-4)
-  * [TODO-EXAMPLE](#todo-example-4)
-  * [FAQ](#faq-3)
 * [6. Consequences ― Positive Opposite](#6-consequences--positive-opposite)
-  * [Definition](#definition-5)
-  * [Ingredients](#ingredients-5)
-  * [TODO-EXAMPLE](#todo-example-5)
-  * [FAQ](#faq-4)
-  * [Caution](#caution-3)
 * [7. Consequences ― Point Programs](#7-consequences--point-programs)
-  * [Definition](#definition-6)
-  * [Ingredients](#ingredients-6)
-  * [TODO-EXAMPLE](#todo-example-6)
-  * [FAQ](#faq-5)
-  * [Caution](#caution-4)
 * [8. Consequences ― Attending & Planned Ignoring](#8-consequences--attending--planned-ignoring)
-  * [Definition](#definition-7)
-  * [Ingredients](#ingredients-7)
-  * [TODO-EXAMPLE](#todo-example-7)
-  * [FAQ](#faq-6)
-  * [Caution](#caution-5)
 * [9. Consequences ― Punishment Basics](#9-consequences--punishment-basics)
-  * [Definition](#definition-8)
-  * [Kinds](#kinds-2)
-  * [Direct Effects](#direct-effects)
-  * [Negative Side Effects](#negative-side-effects)
-  * [Ingredients](#ingredients-8)
-  * [TODO-EXAMPLE](#todo-example-8)
 * [10. Consequences ― Time Out from Reinforcement](#10-consequences--time-out-from-reinforcement)
-  * [Definition](#definition-9)
-  * [Ingredients](#ingredients-9)
-  * [TODO-EXAMPLE](#todo-example-9)
-  * [FAQ](#faq-7)
-  * [Caution](#caution-6)
 * [11. Consequences ― Spanking and Alternatives](#11-consequences--spanking-and-alternatives)
-  * [Definition](#definition-10)
-  * [Ingredients](#ingredients-10)
-  * [TODO-EXAMPLE](#todo-example-10)
-  * [FAQ](#faq-8)
-  * [Caution](#caution-7)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -115,7 +59,7 @@ A ― B ― C
 
 ## 1. Praise
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Praise`** is a way of expressing one's approval.
 It's a temporary program to make permanent changes.
@@ -126,12 +70,12 @@ Mechanics: Support repeated practice to build habit(s).
 
 This will _not_ spoil a child.
 
-### Kinds
+### Kinds <!-- omit in toc -->
 
 1. routine ("praise in everyday life") ― helps maintaining relationship;
 2. changing/developing behavior ― better suited.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 * Select the behavior to praise in advance and then look for it to appear.
 * **Be VERY enthusiastic!**
@@ -140,14 +84,14 @@ This will _not_ spoil a child.
    E.g. "Great! You've picked up toys just like I asked you!"
 * **Use non-verbal supporting actions:** Hugs, kisses, high-five, etc.
 
-### Effectiveness
+### Effectiveness <!-- omit in toc -->
 
 * Timely, ideally praise immediately after the desired behavior occured.
 * Praise even the small increments of behavior.
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
-### Caution
+### Caution <!-- omit in toc -->
 
 * Do not apply routine praise to change behavior ― it doesn't work that way.
 * Do not praise the person.
@@ -161,7 +105,7 @@ This will _not_ spoil a child.
 
 ## 2. Antecedents
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Antecedent`** is an action or statement that increase the likelyhood the behavior will occur.
 
@@ -172,7 +116,7 @@ Half-joke example:
 > 
 > ― He: If _you really loved me_ you would not even ask me to go.
 
-### Kinds
+### Kinds <!-- omit in toc -->
 
 1. Prompts ― direct ways to guide behavior usually in a form of instruction.
    * Verbal: "Please put away your toys".
@@ -184,7 +128,7 @@ Half-joke example:
    * Harsh tone alone or limiting choice are likely to make child not follow instructions. E.g. "do it because I said so", "I am the parent and you have to do this".
    * Aggressive orders are not the way to build habits.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 * **Be clear and specific.**
   General prompts are less effective than the specific ones.
@@ -203,9 +147,9 @@ Half-joke example:
    Prolong practice and achieve behavior locking earlier.
    "I bet you can't do it twice in a raw."
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
-### FAQ
+### FAQ <!-- omit in toc -->
 
 > I give prompts all day and trust me they don't work at all.
 
@@ -226,7 +170,7 @@ The tools are **designed for short-term use but they lead to long-term change**.
 
 *How can we get to behavior of the child that we'd like to see?*
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Shaping`** is rewarding small steps that begin to approximate (resemble) the desired behavior.
 
@@ -238,7 +182,7 @@ Want a child to clear all the dishes from the dinner table => start with just on
 Give special praise child for showing the behavior for _easy_ requests first.
 This will increase chances of behavior in other situtaions.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 * Choose behaviors you'd like.
 * Select a small step.
@@ -247,9 +191,9 @@ This will increase chances of behavior in other situtaions.
 * When behavior instances occur consistently, make the requirement slightly .bigger
   * if you _don't_ see the progress, try to make the requirement smaller.
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
-### FAQ
+### FAQ <!-- omit in toc -->
 
 > Why do I need to do shaping at all, my child knows how to do the behavior?
 
@@ -260,7 +204,7 @@ Knowing is not the same as doing. The idea is to make the child practicing the b
 Make the step smaller.
 Provide a little help to get things going ― it is totally fine. If it does not work still, try to use the [**Simulation technique**](#4-behaviors--simulation).
 
-### Caution
+### Caution <!-- omit in toc -->
 
 Avoid ineffective use!
 
@@ -272,7 +216,7 @@ Avoid ineffective use!
 
 ## 4. Behaviors ― Simulation
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Simulation`** consists of making up practice opportunities to engage in the behavior in game-like, role-play, pretend situation.
 
@@ -284,7 +228,7 @@ The idea is to build the behavior in artificial environment and then carry it ov
 
 For the simulation is important _how_ you do things, not just what you do.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 **Prerequisite**: Pressure-free, anxiety-free environment and time.
 Make it fun!
@@ -295,9 +239,9 @@ Make it fun!
 * Praise effusively.
 * Use a playful challenge to repeat the practice one or two times.
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
-### FAQ
+### FAQ <!-- omit in toc -->
 
 > If it looks so fake, how can it teach the behavior that will be used in every day situations?
 
@@ -310,12 +254,12 @@ Maybe one time a day.
 Try including a challenge to repat the game.
 Do praise the instances the behavior when you see them.
 
-### Caution
+### Caution <!-- omit in toc -->
 ...
 
 ## 5. Behaviors ― Modeling
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Modeling`** is a systematic tool that incorporates learning by observing and seeing the behavior of others rather than performing that behavior.
 
@@ -327,7 +271,7 @@ Another example: children discipline their peers the same way their parents disc
 
 Children learn from diffent observed people, but parents modeling influence is the greatest due to the role in the child's life, the amount of time spent together, and the special relationship.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 * Select a characteristic to be developed.
 * Define the characteristic by listing examples.
@@ -342,12 +286,12 @@ Remember to converse with the child about what is going on in your life.
 If nothing happened today, tell a story about the past.
 This sets and example of openness and willing to talk that the child will likely follow.
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
 * TODO Alcohol abuse.
 * TODO Parent shouting at children on the beach.
 
-### FAQ
+### FAQ <!-- omit in toc -->
 
 > How effective is modeling in changing my child?
 
@@ -372,31 +316,31 @@ What parents or other important people do is more likely to be picked up than wh
 
 ## 6. Consequences ― Positive Opposite
 
-### Definition
-### Ingredients
-### TODO-EXAMPLE
-### FAQ
-### Caution
+### Definition <!-- omit in toc -->
+### Ingredients <!-- omit in toc -->
+### TODO-EXAMPLE <!-- omit in toc -->
+### FAQ <!-- omit in toc -->
+### Caution <!-- omit in toc -->
 
 ## 7. Consequences ― Point Programs
 
-### Definition
-### Ingredients
-### TODO-EXAMPLE
-### FAQ
-### Caution
+### Definition <!-- omit in toc -->
+### Ingredients <!-- omit in toc -->
+### TODO-EXAMPLE <!-- omit in toc -->
+### FAQ <!-- omit in toc -->
+### Caution <!-- omit in toc -->
 
 ## 8. Consequences ― Attending & Planned Ignoring
 
-### Definition
-### Ingredients
-### TODO-EXAMPLE
-### FAQ
-### Caution
+### Definition <!-- omit in toc -->
+### Ingredients <!-- omit in toc -->
+### TODO-EXAMPLE <!-- omit in toc -->
+### FAQ <!-- omit in toc -->
+### Caution <!-- omit in toc -->
 
 ## 9. Consequences ― Punishment Basics
 
-### Definition
+### Definition <!-- omit in toc -->
 
 **`Punishment`** is any consequence that follows behavior and decreases or is intended to decrease the likelihood of the behavior in the future.
 
@@ -404,7 +348,7 @@ It is important to understand all the effects of punishment.
 Keep in mind is not an efficient tool with dangers associated.
 It should only be administered as a supplement to other techniques.
 
-### Kinds
+### Kinds <!-- omit in toc -->
 
 1. Presenting something undesireable or negative after a behavior occurs.
    E.g. Reprimands, shouting, hitting.
@@ -414,7 +358,7 @@ It should only be administered as a supplement to other techniques.
 3. Using some effort or some task to be performed.
    E.g. a chore, or cleaning up something.
 
-### Direct Effects
+### Direct Effects <!-- omit in toc -->
 
 1. Stop the behavior *in the moment* of the interruption.
 2. Does **not** stop the behavior beyond the moment.
@@ -424,7 +368,7 @@ It should only be administered as a supplement to other techniques.
 
 I.e. the effects are immediate but not enduring.
 
-### Negative Side Effects
+### Negative Side Effects <!-- omit in toc -->
 
 1. Emotional reactions.
    E.g. crying, arguing, striking a parent.
@@ -439,7 +383,7 @@ I.e. the effects are immediate but not enduring.
    Punish technique models (TODO_REF) the child tends to use with his/her peers.
    E.g. punishment by hitting ⟶ fights on playground, punishment byshouting ⟶ yelling at school.
 
-### Ingredients
+### Ingredients <!-- omit in toc -->
 
 The **effective** punishment uses the following is done like this:
 
@@ -453,20 +397,20 @@ The **effective** punishment uses the following is done like this:
    **KEEP THE PUNISHMENT MILD.**
 * Praise much more often than punish.
 
-### TODO-EXAMPLE
+### TODO-EXAMPLE <!-- omit in toc -->
 
 ## 10. Consequences ― Time Out from Reinforcement
 
-### Definition
-### Ingredients
-### TODO-EXAMPLE
-### FAQ
-### Caution
+### Definition <!-- omit in toc -->
+### Ingredients <!-- omit in toc -->
+### TODO-EXAMPLE <!-- omit in toc -->
+### FAQ <!-- omit in toc -->
+### Caution <!-- omit in toc -->
 
 ## 11. Consequences ― Spanking and Alternatives
 
-### Definition
-### Ingredients
-### TODO-EXAMPLE
-### FAQ
-### Caution
+### Definition <!-- omit in toc -->
+### Ingredients <!-- omit in toc -->
+### TODO-EXAMPLE <!-- omit in toc -->
+### FAQ <!-- omit in toc -->
+### Caution <!-- omit in toc -->
