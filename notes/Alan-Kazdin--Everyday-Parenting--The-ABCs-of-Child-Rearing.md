@@ -197,7 +197,7 @@ Definition: **Simulation** consists of making up practice opportunities to engag
 
 It is intended to getting the behavior you'd like to see in your child (Or stop the behavior you don't want the child to do which she is doing a lot).
 
-Simulation uses [antecedents](#2-Antecedents), [praises](#1-Praise), [points](#7-Consequences-Point-Programs), and developing positive opposites.
+Simulation uses [antecedents](#2-Antecedents), [praises](#1-Praise), [points](#7-Consequences--Point-Programs), and developing [positive opposites](#6-Consequences--Positive-Opposites).
 
 The idea is to build the behavior in artificial environment and then carry it over to real life situations.
 
