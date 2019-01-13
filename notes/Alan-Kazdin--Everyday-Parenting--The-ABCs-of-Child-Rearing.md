@@ -30,6 +30,9 @@
 * [9. Consequences ― Punishment Basics](#9-consequences--punishment-basics)
 * [10. Consequences ― Time Out from Reinforcement](#10-consequences--time-out-from-reinforcement)
 * [11. Consequences ― Spanking and Alternatives](#11-consequences--spanking-and-alternatives)
+* [12. Troubleshooting: The Basics](#12-troubleshooting-the-basics)
+* [13. Troubleshooting: Advanced Techniques ― Jumpstarting](#13-troubleshooting-advanced-techniques--jumpstarting)
+* [14. Troubleshooting: Advanced Techniques ― Consequence Sharing](#14-troubleshooting-advanced-techniques--consequence-sharing)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -533,3 +536,113 @@ The irony is that physical punishment will likely worsen the situtation with agg
 
 # Week 3 <!-- omit in toc -->
 
+## 12. Troubleshooting: The Basics
+
+It *is* possible that a particular technique will not work with a child.
+However, often the case the technique is not applied correctly and this leads to a failure.
+
+Troubleshooting is:
+
+* figuring out why the technique did not work;
+* realizing how to fix the problem.
+
+Troubleshooting can turn the program around in turn of its efficiency.
+
+Focus on HOW you are using the tools!
+
+### Signs Of The Need Of Troubleshooting <!-- omit in toc -->
+
+* Change is not occuring.
+* Change is too small or too slow.
+* Change is not enduring.
+* Problem occurs out of context, i.e. change occur but only when praise or points are given after behavior.
+* Problem has gotten worse.
+
+### Common Problems <!-- omit in toc -->
+
+* Giving rewards for the arbitrary behaviors instead of the specific behaviors.
+  * "Improvisation schemes" don't work.
+  The consistent special response should be associated with specific behaviors and only with them.
+* Parents giving too many reminders.
+  * Repeated prompts (TODO_LINK) decrease the likelyhood of the repeated behavior.
+  If the child does not do what is asked, request less of the behavior and then go help the child carry that out.
+* Strategic issues.
+  * Reward programs (TODO_LINK) do not work well *alone*.
+  * Prompts (TODO_LINK) do not work well *alone*.
+  * Antecedents (TODO_LINK) and Consequences (TODO_LINK) used together **do work**.
+
+### Troubleshooting Checklist <!-- omit in toc -->
+
+1. Check your prompts and positive setting events.
+   1. Are the prompts (TODO_LINK) given *right before* you want the behavior to occur?
+   2. Are positive setting events (TODO_LINK) being used?
+2. Use Shaping (TODO_LINK) more efficiently. 
+   1. Demand less behavior in the beginning.
+   2. Break down the behavior to praise partial completion.
+   3. Remember that "knowing is not the same as doing", and "having done once or twice is not the same as doing it consistently".
+3. Check how praises (TODO_LINK) are delivered.
+   Mediocre praise does not work.
+   1. Praise the behavior **every** time.
+   2. Check the immediacy and effusiveness.
+4. Check your point program (TODO_LINK).
+   1. Child should be excited to spend the points.
+   I.e. is the child not willing to spend the points?
+   1. Rewards should be based on child's interest.
+5. If there are two or more adults in a home, work together to make sure that you're administering the program similarly.
+   1. Consistently praise and reward behavior.
+   2. It is okay to have just one parent administer the program as long as it's *consistent*.
+
+### FAQ <!-- omit in toc -->
+
+> What if I suspend the program?
+
+It is fine to suspend the program temporarily *if you can not do it well*.
+Doing the programm partially and well is better than keeping it going and doing it poorly.
+
+> What if am divorced or separated, can I use the program just in my home?
+
+Yes, you can.
+Having the program going at least in one home is still likely to make a big difference in child's behavior improvement.
+
+> What if I relapse into yelling at my child or even hitting? Have I undermined all of my progress?
+
+That is not a catastrophy.
+Just try to get back to the behavior change tools and techniques.
+We are human beings and tend to make mistakes.
+So lower the bar to a realistic level for yourself too.
+
+## 13. Troubleshooting: Advanced Techniques ― Jumpstarting
+
+### Jumpstarting <!-- omit in toc -->
+
+Often, it's hard to just start the behavior to get going.
+A technique called Jumpstarting (aka Response Priming) can help with that.
+**`Jumpstarting`** is inviting a person to participate in the early part of a sequence or set of behaviors.
+
+This is especially true when there's a sequence of actions need to be done in order to achieve the desired outcome.
+
+TODO Example: Exercising delayed. Equipment...
+
+The number of steps can result in accumulation of the great inertia that prevents doing the behavior.
+This leads to not enough of the sequence to be generated, thus nothing to reward or to praise.
+
+If the person is invited to only participate in an early part of the sequence, he or she is more likely to agree and actually do that.
+Which in turn increases the likelihood of participation in at least the nest step of the sequence.
+This is a great starting point for Shaping (TODO_LINK).
+
+### Ingredients <!-- omit in toc -->
+
+* Pair with shaping.
+* Mention your child is allowed to stop after completing the first part.
+* Give choice ― your child can stop after first step or keep going.
+* Remaining silent and letting the child keep going is an allowed option too.
+* Praise taking the first step whether or not child continues the sequence.
+
+It will make it easier to get the starting step of the sequence going the next time.
+
+## 14. Troubleshooting: Advanced Techniques ― Consequence Sharing
+
+**`Consequence sharing`** is providing a rewarding consequence to an individual for behavior, and giving the same reward to others.
+
+* Used when one out of several children requires a behavior-change program.
+* Used to share positive consequences ― do not punish innocent child.
