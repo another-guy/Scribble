@@ -33,6 +33,7 @@
 * [12. Troubleshooting: The Basics](#12-troubleshooting-the-basics)
 * [13. Troubleshooting: Advanced Techniques ― Jumpstarting](#13-troubleshooting-advanced-techniques--jumpstarting)
 * [14. Troubleshooting: Advanced Techniques ― Consequence Sharing](#14-troubleshooting-advanced-techniques--consequence-sharing)
+* [15. Troubleshooting: Advanced Techniques ― Group Program](#15-troubleshooting-advanced-techniques--group-program)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -646,3 +647,18 @@ It will make it easier to get the starting step of the sequence going the next t
 
 * Used when one out of several children requires a behavior-change program.
 * Used to share positive consequences ― do not punish innocent child.
+
+Benefits here include:
+
+* Avoid a "me too" program. I.e. it tries to add fairness.
+* Non-target children end up encouraging the target child to do the behaviors, often with specific statements or even directions.
+* Target child values reward more when shared with non-target child.
+* Non-target child improves his/her behavior.
+  
+## 15. Troubleshooting: Advanced Techniques ― Group Program
+
+**`Group Program`** is a program that relies on providing a rewarding consequence to those involved, *only when all parties* have completed the behavior.
+
+Use as a troubleshooting tool, or when you want the same behavior for more than one child.
+Treat the group as a unit.
+Praise the group as a unit.
