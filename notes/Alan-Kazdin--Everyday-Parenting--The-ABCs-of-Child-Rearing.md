@@ -37,7 +37,7 @@
 
 Figure out a way to:
 * drink more with less resistance.
-* be able to listen a complete short story without much interruption or rushing through pages.
+* be able to listen a complete short story without much interruption or rushing through the pages of the book.
 * get teeth brushed every morning and evening without fuss.
 
 ## Key Ideas
@@ -500,10 +500,36 @@ We also want child as soon as possible back into the normal situation so that po
 ## 11. Consequences ― Spanking and Alternatives
 
 ### Definition <!-- omit in toc -->
-### Ingredients <!-- omit in toc -->
-### EXAMPLE <!-- omit in toc -->
 
-TODO
+**`Physical (corporal) punishment`** is any physical contact or hitting.
+This is different from **child abuse**, however, which is a *severe* physical punishment, inducing extreme pain, physical marks, even open wounds, and often uses objects such as belts, sticks, and alike as a part of punishment.
+
+Physical punishment is a sensitive topic because it is connected to one's religion, culture, or strong personal beliefs about what is appropriate to control child behavior. 
+
+### Negative Effects <!-- omit in toc -->
+
+* Increased aggression; disruptive and antisocial child behavior both at home and at schole.
+* Poor academic achievements.
+* Reduced ability to control impulsive behavior later in life.
+* Higher rates of mental health problems for child- and adulthood. E.g. depression, anxiety, and alcohol abuse.
+* Increased risk of physical health problems. As far as earlier death due to the compromised immune system. Heart disease, cancer, chronic respiratory disease also contribute to shorter life expectancy.
+
+### Irony Of Physical Punishment <!-- omit in toc -->
+
+Parents surveys show: the two most often reasons for use of the physical punishment are for aggression and non-compliance of their children.
+
+The irony is that physical punishment will likely worsen the situtation with aggression while having little or no effect on compliance.
 
 ### FAQ <!-- omit in toc -->
-### Caution <!-- omit in toc -->
+
+> How come people still use punishment?
+
+* Punishment is connected to our beliefs in child raising practices.
+* When punishment is used, the negative activity stops that moment and that locks into the parents behavior.
+  This connection in parent's mind is learned and is very strong.
+  The ineffectiveness of the punishment is delayed and therefore does not have much impact on this learned connection, i.e. it's hard to *un*learn it.
+  This is called "the punishment trap".
+  It is observed that the aggressive actions (doing or watching them) can activate the "reward centers" in the brain.
+
+# Week 3 <!-- omit in toc -->
+
