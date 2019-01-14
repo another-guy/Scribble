@@ -14,6 +14,7 @@
 
 * [Informal Networks: The Company Behind the Chart](https://hbr.org/1993/07/informal-networks-the-company-behind-the-chart)
 * [To Understand Whether Your Company Is Inclusive, Map How Your Employees Interact](https://hbr.org/2017/07/to-understand-whether-your-company-is-inclusive-map-how-your-employees-interact)
+* [Как выучить большой текст наизусть by Gogol School on Meduza.io](https://meduza.io/paragraph/2019/01/14/kak-vyuchit-bolshoy-tekst-naizust-ob-yasnyaem-maksimalno-korotko-vmeste-s-gogol-school)
 
 ## 🏫 Courses
 
