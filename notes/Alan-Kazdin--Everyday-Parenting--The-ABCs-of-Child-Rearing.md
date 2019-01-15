@@ -34,6 +34,8 @@
 * [13. Troubleshooting: Advanced Techniques ― Jumpstarting](#13-troubleshooting-advanced-techniques--jumpstarting)
 * [14. Troubleshooting: Advanced Techniques ― Consequence Sharing](#14-troubleshooting-advanced-techniques--consequence-sharing)
 * [15. Troubleshooting: Advanced Techniques ― Group Program](#15-troubleshooting-advanced-techniques--group-program)
+* [16. Adolescents](#16-adolescents)
+* [17. Nurturing Family Environment](#17-nurturing-family-environment)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -662,3 +664,165 @@ Benefits here include:
 Use as a troubleshooting tool, or when you want the same behavior for more than one child.
 Treat the group as a unit.
 Praise the group as a unit.
+
+## 16. Adolescents
+
+The tools we can apply to adolescents are the same, but *how* they are applied is different.
+
+### Risky Behaviors <!-- omit in toc -->
+
+Adolescense is a period of engaging in risky behaviors.
+Those which can lead to health problems, serious injuries, and death.
+E.g. alcohol abusing, cigarets smoking, driving recklesly, engaing in unprotected sex, engaging in illegal activities.
+
+Two factor influence the risky behavior the most.
+First is the **presense of peers**.
+Second is **not being monitored by parents**.
+Monitoring does not mean being with child at all times or hovering.
+Monitoring is keeping track of where the child is, with whom, and what she is doing.
+Cell phones can help with monitoring.
+
+Monitoring is important even when child is at home.
+Keep an eye on computer, cell phone, tablet and similar devices usage.
+
+### Brain Development <!-- omit in toc -->
+
+The brain is not fully developed yet and is developing unevenly.
+Decision making develops later vs sensation seeking develops early.
+
+* Changes in physical (hormones, appearance, brain) and psychological (increases in hopelessness, body image problem) states.
+* Many psychiatric disorder originate around this period.
+* A lot of that is a result of stress.
+  Adolescense are copign with things they may not even be aware of.
+
+Parents' Relief of Path of Adolescense and Positive Influence.
+
+### Praise <!-- omit in toc -->
+
+* Praise quietly and calmly.
+  * Sometimes, a private praise helps avoiding embarrassment.
+* Use exact and concrete terms.
+* Give a nonverbal gesture without touching.
+
+### Attending and Planned Ignoring <!-- omit in toc -->
+
+Ignore the undesired more often.
+Most importantly, look carefully for the opportunities to praise the desired behavior.
+
+### Use of Punishment <!-- omit in toc -->
+
+Should play a minor role.
+Should be brief and mild.
+
+Time out is not an option anymore.
+A brief loss of a privilege is a working option still.
+
+The punishment will only increase the tension at home, that's why the focus should be on attending and planned ignoring.
+
+### Compromise <!-- omit in toc -->
+
+Make a special efforts to achieve compromise.
+Over time children develop more autonomy, taste, preferences.
+Peers also pose an enormous influence.
+
+Try to compromise when you can.
+E.g. bed time; messy room; strange outfits and appearances; curfew.
+
+Consider bending on behaviors that are likely to be temporary and are not dangerous.
+
+Expand the areas you're willing to compromise.
+Teens want more independence.
+
+The myth of the *slippery slope*.
+The opposite is more likely.
+Compromising provides a model of what is it to be reasonable and how two people disagree but come to terms without a fight.
+Compromising on some issues will likely strenghten your word or rules in places you can not compromise.
+This also cements positive facets of relationship in a difficult period.
+
+### Negotiating <!-- omit in toc -->
+
+Negotiation is a *process* of getting to a compromise.
+
+The opposite of the negotiation is making a decision on child's behalf.
+
+Negotiation steps:
+
+* Listen without interrupting, pay attention to his side of the story.
+* Be respectful of the child. Withold judgement (which can even be conveyed by the body language).
+  * This conveys the content is being taken seriously.
+* Focus on the presen, not the past.
+  * Referring to the past may jeopardize the process.
+* Stay on subject at hand.
+  * Doing otherwise undermines the "listening" in child's eyes and gives a signal "parent doesn't understand".
+* Provide a few alternatives without being authoritative.
+  * "Have you considered these alternatives?"
+
+### Engage In Problem Solving With Adolescense <!-- omit in toc -->
+
+* Identify and state the problem.
+* Prompt and encourage strategies to solutions.
+* Identify several ways to handle the problem.
+* For each of the possible ways identify the possible consequences and characterize them.
+* Select the best way in terms of consequences.
+* Role play the situation and the selected solution.
+  * Constructive tone is helpful.
+  * Don't hesitate to start over or switch the roles.
+
+## 17. Nurturing Family Environment
+
+### Promote Open Communication <!-- omit in toc -->
+
+* Realize *telling* child to talk to you will *not be enough to open lines of communication*.
+* Be an especially good listener *without interruption or judgement*.
+  * It does not mean hold back your views, just delay giving an advice.
+* Model open communication by talking about your day.
+
+### Build Positive Relatives Relationships <!-- omit in toc -->
+
+The quality of interaction with relatives outside the home adds a great value in promotive positive behaviors.
+It is important for a child to have another trusted person who she can talk to.
+Children with positive family connections do better at school and are less likely to show behavior problems as they get older.
+
+* Be sure child is present when visiting relatives.
+* Invite relatives over.
+* Schedule virtual hangout.
+
+### Routines And Rituals <!-- omit in toc -->
+
+**`Routines and rituals`** are regular and predictable activities.
+
+These do not have to be religious activities, even those certainly would qualify.
+
+Quality of family life is greatly affected by reguraly scheduled activities which give structure to the week, or the month, or the year.
+Regularity is greater than a particular period.
+Such activities reduce stress or anxiety in children, as well as help avoiding risky behavior in teens.
+
+* Aim for regularity and frequency such as once a week.
+* Establish a few routines inside and outside the home.
+
+### Positive Social Behavior <!-- omit in toc -->
+
+Another focus should be on promoting positive social beahvior especially in childhood. E.g. getting alone with others, cooperating, being sensitive.
+
+Temperament and propensity to socialize differ from child to child greatly.
+Some join games with others immediately.
+Some are more hesitant.
+Nevertheless, it is important for children to learn to be around peers and get alone.
+
+Kids who know how to interact with others do better at school, and are less likely to engage into risky behavior when reach teenage.
+
+Over the last few decades we've observed the shift in preparing kids to school.
+In the past, it was recommended to get the children engaged into academic activities (reading, counting) as early as possible.
+Now, the recommendation is to make children know how to interact with others, cooperate, play together, share, and listen to adults.
+
+* Increase the number of opportunities for your child to be social. Play date, sleep over, neighbor kids.
+* Monitor how the child is doing.
+  * Notice the negative social behavior.
+  * Use prompts.
+  * Praise positive behavior.
+* Build a program with antecedents, shaping, and praise if needed.
+* Develop one or more interests that involve peers.
+
+### Develop Own Parent Flexibility <!-- omit in toc -->
+
+
