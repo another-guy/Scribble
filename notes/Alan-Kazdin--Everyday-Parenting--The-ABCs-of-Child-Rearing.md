@@ -31,11 +31,15 @@
 * [10. Consequences ― Time Out from Reinforcement](#10-consequences--time-out-from-reinforcement)
 * [11. Consequences ― Spanking and Alternatives](#11-consequences--spanking-and-alternatives)
 * [12. Troubleshooting: The Basics](#12-troubleshooting-the-basics)
-* [13. Troubleshooting: Advanced Techniques ― Jumpstarting](#13-troubleshooting-advanced-techniques--jumpstarting)
-* [14. Troubleshooting: Advanced Techniques ― Consequence Sharing](#14-troubleshooting-advanced-techniques--consequence-sharing)
-* [15. Troubleshooting: Advanced Techniques ― Group Program](#15-troubleshooting-advanced-techniques--group-program)
+* [13. Troubleshooting ― Jumpstarting](#13-troubleshooting--jumpstarting)
+* [14. Troubleshooting ― Consequence Sharing](#14-troubleshooting--consequence-sharing)
+* [15. Troubleshooting ― Group Program](#15-troubleshooting--group-program)
 * [16. Adolescents](#16-adolescents)
 * [17. Nurturing Family Environment](#17-nurturing-family-environment)
+* [18. Common Misconceptions](#18-common-misconceptions)
+* [19. School Behaviors ― Handling Problems](#19-school-behaviors--handling-problems)
+* [20. School Behaviors ― Building Competencies](#20-school-behaviors--building-competencies)
+* [21. Seeking Professional Help](#21-seeking-professional-help)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -614,7 +618,7 @@ Just try to get back to the behavior change tools and techniques.
 We are human beings and tend to make mistakes.
 So lower the bar to a realistic level for yourself too.
 
-## 13. Troubleshooting: Advanced Techniques ― Jumpstarting
+## 13. Troubleshooting ― Jumpstarting
 
 ### Jumpstarting <!-- omit in toc -->
 
@@ -643,7 +647,7 @@ This is a great starting point for Shaping (TODO_LINK).
 
 It will make it easier to get the starting step of the sequence going the next time.
 
-## 14. Troubleshooting: Advanced Techniques ― Consequence Sharing
+## 14. Troubleshooting ― Consequence Sharing
 
 **`Consequence sharing`** is providing a rewarding consequence to an individual for behavior, and giving the same reward to others.
 
@@ -657,7 +661,7 @@ Benefits here include:
 * Target child values reward more when shared with non-target child.
 * Non-target child improves his/her behavior.
   
-## 15. Troubleshooting: Advanced Techniques ― Group Program
+## 15. Troubleshooting ― Group Program
 
 **`Group Program`** is a program that relies on providing a rewarding consequence to those involved, *only when all parties* have completed the behavior.
 
@@ -823,6 +827,176 @@ Now, the recommendation is to make children know how to interact with others, co
 * Build a program with antecedents, shaping, and praise if needed.
 * Develop one or more interests that involve peers.
 
-### Develop Own Parent Flexibility <!-- omit in toc -->
+### Develop Parental Flexibility <!-- omit in toc -->
 
+Parents should make sure they are flexible.
+Word "flexibility" here means ability to compromise when possible and more and more as the child grows up.
+The opposite extreme is having clear and rigid statements like "do it because I said so".
+This extreme moves *away* from the nurturing environment.
+
+Rigid statements foster noncompliance.
+Offering choice fosters compliance.
+
+* Compromise (TODO_LINK).
+* Negotiate (TODO_LINK).
+
+### Monitoring <!-- omit in toc -->
+
+As mentioned earlier, monitoring is a tool that helps preventing engagement in risky activities (TODO_LINK).
+
+* Who is the child with?
+* Where the child is?
+* What is the child doing?
+* How does the child uses computer, smartphones, and similar devices?
+
+After-school time is the most difficult one to keep track of whether for two parents (both at work) or single parent.
+
+Monitoring should be a *regular* activity.
+
+* Build a routine of knowing where everyone in the family is.
+  * Make it a *natural* activity.
+  * It will not work if this activity has never been practiced and is introduced one day.
+* Check in with your child via cell phone.
+* Make your home a place where your child spends time with friends.
+* Create a plan to monitor virtual activity.
+
+### Minimize Stressors <!-- omit in toc -->
+
+Stress is a normal part of everyone's life and can not be completely eliminated.
+Yet, it's important to be alert of stressors of your child.
+Examples include: demands from schoolwork, unsafe living conditions, unstable home environment, bullying, concerns about the body image, overly high expectations, negative thoughts and doubts about themselves.
+
+The parents are usually unaware of the stress experienced by their children.
+Kids often turn inward and just say everything is fine but actually they are suffering quietly.
+
+Parents stress tends to spread around the home.
+I.e. parents' stress affects the child state and adds up with child's existing stress.
+This leads a few effects.
+First is obvious, the child's stress increases.
+But also, stress is a setting event (TODO_LINK), and antecedent that can lead to negative behavior.
+A parent comes home stressed, says something but the child doesn't comply because stress in the parent's voice is an antecedent for getting noncompliance.
+In addition to that, the stress can be an antecedent for other things such as low quality of sleep at night results in problems at school the next day.
+
+***Continuous* stresses result disrupt routines which in turn results in noncompliance and anxiety**.
+
+* Avoid conflict, mean comments, harsh punishement, or family chaos.
+* Maintain routines and rituals as consistent as possible to stabilize child's behaviors.
+
+### Self-Care <!-- omit in toc -->
+
+Stress not just influences child's behavior.
+It can speed up aging process and negatively affect the immune system (incl. enduring changes).
+
+Do see your own needs to protect yourself.
+Do care self-practice alone and with your spouse.
+It will also work as a model (TODO_LINK) for your child.
+
+* Build relationships outside of the home.
+* Make time for yourself.
+* Enjoy a hobby.
+* Participate in activities.
+
+## 18. Common Misconceptions
+
+If your usual child rearing practices work, there might be no need to resort to any of the behavior changing tools at all.
+
+Obstacles to efficiency of the tools are:
+
+* The concepts (praise, time out, prompts) are familiar, however the application details are crucial.
+  If not applied correctly, the tools lose their efficiency.
+* Parents have beliefs, experiences, inclination about how to rear our child
+  All of them affect how we interact and influence our child.
+  And some of the beliefs are contrary to what the studies show about them.
+
+### List of Misconceptions <!-- omit in toc -->
+
+> *"Punishment will change the behavior."*
+
+* No, it doen't make enduring changes.
+* No, increasing the intensity of punishment does not make it any more effective.
+* No, punishment increases aggression and disconnects from the paren, leads to poor school performance, health problems, etc.
+* No, punishment doesn't teach children positive behavior, *it teaches how to punish others though.*
+* Worse, punishing is self-maintaining (locks in the parent's mind, aka *"punishment trap"*).
+
+> *"Explaining why a behavior is wrong will lead child to stop doing the behavior."* 
+
+* Yes, explanation does play a role in child development.
+  * Teaching by modeling.
+  * Teaching complex psychological processes such as thinking, problem solving, reasoning.
+  * Teaching concepts, words, languages.
+* No, explanation is not an efficient tool for changing the behavior in people (both children or adults).
+  * Explanation may change attitude, but very unlikely to change any behavior.
+  * No, explanation is not a replacement for practice.
+
+> *"Providing a lot of praise will spoil a child."*
+
+* No, praise is a strongest tool for development of the positive behavior in the child.
+  * It is very unlikely to praise children too much in the first place.
+  Actually, we're just being nice a lot.
+  We have a natural inclination to be critical and to see things that are going wrong, than to be supportive and noticing the good things.
+* No, praise is associated with many positive effects.
+  * Stronger child connections to adults.
+  * Children like more the situations where the praise is provided.
+* No, the *special praise* only needs to target the specific behaviors we're trying to correct in the child.
+
+> *"If child knows the behavior or has done it once or twice, he/she can do it regularly.*
+
+* No, knowing and doing are very connected in humans.
+* No, for the behavior to really become consistent ("lock in"), the praise should be used each time the behavior occurs.
+
+> *"When my child refuses somehing she's just being manipulative."*
+
+* No, children are actually much less manipulative than adults.
+  * Coming up with strategies that affect adult's behavior is beyond children's abilities.
+* No, the child is not manipulative because we can turn the opposition into compliance with behavior-change program.
+
+> *"Reminding a child is a way to get the behaviors we wish."*
+
+**`Reminder`** is a repeated verbal prompt to get the child to do something.
+
+* Yes, reminders are fine when we want the behavior to happen once.
+* No, by themselves reminders don't get the desired behavior change, rather it becomes nagging.
+* Often, the repeated reminders are seen by the parents as a ground for punishment.
+
+## 19. School Behaviors ― Handling Problems
+
+Examples include: fighting, teasing, bullying, interfering with work of others, not completing assignments at school, not bringing homework assignments home, and getting upset when transitioning from one activity to another.
+
+In some sense, the common problems are emerging and are a function of the grade.
+This is because the older the child is, the more homework assignment they will receive and need to get done.
+
+### Definition <!-- omit in toc -->
+
+The special intervention technique called **`Home-based reinforcement program`** can be helpful.
+As the name suggests, much of the program is carried out at home but is based on the behaviors that child is doing at school.
+It involves parent, teacher, and a child, and uses shaping, praise, point programs, and positive opposites. (TODO_LINK)
+
+Usually, it's the teached who alerts abour the problem in the first place.
+The program uses teacher's input but does not require a lot of teacher's effort which is why teachers are often eager to help with such programs.
+
+### Ingredients <!-- omit in toc -->
+
+* Teacher + Parents: Identify the problem behavior.
+  * Get to the point, use precise terms.
+  The details help in deciding the strategy and will help monitoring the process of child behavior improvement.
+  **Write them down** so that you and the teached can agree on concerns.
+  * Select just one teacher or class.
+  If we can achieve the behavior in one class, we can easily extend that to other classes later.
+* Teacher + Parents: Create a system the teacher can use to measure the child's behavior.
+  * Ask teacher to grade the child every day.
+  * Typically 3 by 5 index cards are used for that.
+  The teacher would tick off 0, 1, or 2 for how the child performed that day.
+  * Texts, emails, or phone calls tend to be much less efficient than cards.
+  Often, the activit gets forgotten.
+  More importantly, the child does not get an *immediate feedback* of that card.
+  * The system should define the levels or the grades.
+  0 means no positive behavior change at all.
+  1 means minor improvement in behavior.
+  And 2 means that the behavior is a lot better most of the time.
+
+### Responding <!-- omit in toc -->
+
+## 20. School Behaviors ― Building Competencies
+
+## 21. Seeking Professional Help
 
