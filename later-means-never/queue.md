@@ -10,6 +10,12 @@
 * [Books in Software Architecture](https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce) by [Nikolay Ashanin](https://medium.com/@nvashanin)
 * [STAMPing On `event-stream`](https://www.hillelwayne.com/post/stamping-on-eventstream/) by [Hillel Wayne](https://twitter.com/hillelogram)
 
+---
+
+* [The Seal of Biliteracy: Is It Worth It?](https://tritontimes.com/7711/columns/the-seal-of-biliteracy-is-it-worth-it/)
+* [How the State Seal of Biliteracy Is a Game Changer](http://blogs.edweek.org/edweek/global_learning/2014/11/how_the_state_seal_of_biliteracy_is_a_game_changer.html)
+* [Washington State Seal of Biliteracy](http://www.k12.wa.us/WorldLanguages/SealofBiliteracy.aspx)
+
 ## 📰 Journals
 
 * [Informal Networks: The Company Behind the Chart](https://hbr.org/1993/07/informal-networks-the-company-behind-the-chart)
