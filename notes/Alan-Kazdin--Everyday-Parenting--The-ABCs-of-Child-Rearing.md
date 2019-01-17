@@ -988,15 +988,82 @@ The program uses teacher's input but does not require a lot of teacher's effort 
   The teacher would tick off 0, 1, or 2 for how the child performed that day.
   * Texts, emails, or phone calls tend to be much less efficient than cards.
   Often, the activit gets forgotten.
-  More importantly, the child does not get an *immediate feedback* of that card.
+  More importantly, the child does not get a *clear and immediate feedback* of that card.
   * The system should define the levels or the grades.
-  0 means no positive behavior change at all.
+  0 means the behavior was the problem; no positive behavior change at all.
   1 means minor improvement in behavior.
   And 2 means that the behavior is a lot better most of the time.
+* Parents: Devise a home-based reward program.
+  * A point program that is rewarded daily based on a teacher's report.
+  You may give 1 point for the grade 1 on the teacher's index card.
+  If the teacher gives 2, you may either give 2 points as well or even 3 or 4 to motivate the child stronger to develop the behavior.
+  Another thing is rewarding consistency in good behavior.
+  If the child gets a 2 on a given day, she gets 2 points.
+  But if she gets 2s in a row, she gets and extra (bonus) point.
+  * Have 4 or 5 rewards with different prices, both low (just 1 or 2 points) and high (10 or more points).
+  Scale can look like: 2, 2, 3, 5, 10.
+  The key is in making sure **there is no delay in earning points and buying something**.
 
 ### Responding <!-- omit in toc -->
 
+### Responding To 0 <!-- omit in toc -->
+
+If the child brings home a 0, which means no improvement in behavior.
+It is important that you be calm, do not lecture, and do not make the interaction adversive.
+No complaining, no asking why the child didn't do well.
+
+So you say: "It's good that you brought the card back."
+And then you continue: "You did not earn a point today, but you will have another chance tomorrow."
+Or "I can not give you points today but I am sure you'll have a better day tomorrow."
+
+If the child starts arguing about the ranking, either walk away or start another topic.
+
+### Responding To 1 <!-- omit in toc -->
+
+If the child brings home a 1, which means she did a little bit better.
+Praise it and be specific.
+"The teacher gave you a 1, which must mean you were sitting at your desk most of the time and that was very nicely done. Nice job!"
+
+Praise any sign of improvement!
+Keep in mind **shaping**.
+
+### Responding To 2 <!-- omit in toc -->
+
+If the child brings home a card with a 2, which meand good behavior was performed most of the time.
+Praise the perfect score **enthusiastically** and give high points!
+
 ## 20. School Behaviors ― Building Competencies
+
+Some skills and competencies that are needed for being successful at school.
+Often, basic experience parents are able to provide their children can help being better students.
+E.g. providing a stimulating environment; reading to child and stopping to discuss what is being read; re-reading the same books over again; having child reading to parent or at least explaining to the parent what is happening on the pictures.
+
+The program recommended below can be used outside of school.
+It is especially useful for the summer months or other school breaks.
+In the following example the program focuses on *reading and comprehension* because it is often the most difficult to children.
+However, the program can be applied broadly.
+The program utilizes other tools, but it is more than a point program.
+
+### Ingredients <!-- omit in toc -->
+
+* Ask your child what topics are of the most interest.
+  * You can use a magazine as a starting point if the child has a problem picking a topic.
+  * Use the materials that of the child's reading level.
+* Develop a point program for *talking* about the area of interest.
+  * Points are given for things that child learnt from the sources such as magazine.
+  * Talking does not have to be long; 1-2 minutes is enough ― it is important to not be too demanding.
+  * Have a backup point program.
+  * Have charts that illustrate points earned and spent.
+* Remember to praise! and Remember to keep program pressure-free.
+  * Pay attention to efforts.
+  * It's okay for child to ask for help with reading.
+
+This program is casual and fun and also gives the child a rare opportunity to be in control and teach parents and others.
+
+The program can be enhanced by modeling the behavior you want to instill in your children.
+Parents and other adults can report what they have read on a particular day.
+It is okay to make such practice a routine where everyone gets a chance to speak about what they learned.
+Just keep it pressure-free.
 
 ## 21. Seeking Professional Help
 
