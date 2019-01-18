@@ -4,6 +4,7 @@
 
 * [Practical TLA+: Planning Driven Development](https://www.apress.com/us/book/9781484238288#aboutAuthors) by [Hillel Wayne](https://twitter.com/hillelogram) (2018)
 * [Software Architect's Handbook](https://www.packtpub.com/application-development/software-architects-handbook) by [Joseph Ingeno](https://twitter.com/joeingeno) (2018)
+* [JavaScript Testing Recipes](https://jstesting.jcoglan.com/) by [James Coglan](https://twitter.com/mountain_ghosts) (2014)
 
 ## 🌐 Blog Posts
 
