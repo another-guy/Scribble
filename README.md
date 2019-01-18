@@ -116,6 +116,7 @@ Install individually via `yarn global add <package-name>`
 * ➖ [TensorFlow.js](https://js.tensorflow.org/): A JavaScript library for training and deploying ML models in the browser and on Node.js.
 * ➖ [enzyme](https://airbnb.io/enzyme/): JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * ➖ [react-testing-library](https://github.com/kentcdodds/react-testing-library): Simple and complete React DOM testing utilities that encourage good testing practices.
+* ➖ [graphql-inspector](https://www.npmjs.com/package/graphql-inspector): GraphQL Inspector outputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
 * ➖ [SonarTS](https://github.com/SonarSource/SonarTS): Static code analyzer for TypeScript detecting bugs and suspicious patterns in your code.
 * ➖ [axe-core](https://www.deque.com/axe/): Axe is an open source rules library for accessibility testing. It was developed to empower developers to take automated accessibility testing into their own hands and to avoid common pitfalls of other automated accessibility tools. [Found here; some examples](https://youtu.be/l95VFLj3e2w).
 * ➖ [Gatsby](https://github.com/gatsbyjs/gatsby): Blazing fast modern site generator for React.
