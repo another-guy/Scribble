@@ -117,6 +117,10 @@ TODO
 * Do not "caboose".
    I.e. no extra phrases after the praise like "why don't you always do X?" ― BAD!
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/praise.png)
+
 ## 2. Antecedents
 
 ### Definition <!-- omit in toc -->
@@ -183,6 +187,10 @@ When you see behavior without a prior prompt, **REALLY PRAISE IT!**
 Normally it can take somewhere between 1 to 3 weeks.
 The tools are **designed for short-term use but they lead to long-term change**.
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/antecedents.png)
+
 ## 3. Behaviors ― Shaping
 
 *How can we get to behavior of the child that we'd like to see?*
@@ -234,6 +242,10 @@ Avoid ineffective use!
   This is not true at all.
 * Remember to praise but understand that shaping is not done for praise but for repetative practice and building a habit.
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/shaping.png)
+
 ## 4. Behaviors ― Simulation
 
 ### Definition <!-- omit in toc -->
@@ -279,6 +291,10 @@ Do praise the instances the behavior when you see them.
 
 ### Caution <!-- omit in toc -->
 ...
+
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/simulation.png)
 
 ## 5. Behaviors ― Modeling
 
@@ -338,6 +354,10 @@ Probably not.
 However, the most frequently demonstrated behaviors are the most likely to be learned.
 What parents or other important people do is more likely to be picked up than what less important people do.
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/modeling.png)
+
 # Week 2 <!-- omit in toc -->
 
 ## 6. Consequences ― Positive Opposite
@@ -351,6 +371,10 @@ TODO
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/positive_opposite.png)
+
 ## 7. Consequences ― Point Programs
 
 ### Definition <!-- omit in toc -->
@@ -362,6 +386,10 @@ TODO
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
 
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/point_programs.png)
+
 ## 8. Consequences ― Attending & Planned Ignoring
 
 ### Definition <!-- omit in toc -->
@@ -372,6 +400,12 @@ TODO
 
 ### FAQ <!-- omit in toc -->
 ### Caution <!-- omit in toc -->
+
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/attending.png)
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/planned_ignoring.png)
 
 ## 9. Consequences ― Punishment Basics
 
@@ -435,6 +469,10 @@ The **effective** punishment uses the following is done like this:
 ### EXAMPLE <!-- omit in toc -->
 
 TODO
+
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/punishment.png)
 
 ## 10. Consequences ― Time Out from Reinforcement
 
@@ -507,6 +545,10 @@ Time out should be coupled with time in to be efficient.
 The researches show that prolonged time outs (> 10 minutes) do not result in bigger or prolonged positive effects at all.
 
 We also want child as soon as possible back into the normal situation so that positive reinforcement gets a chance of happening.
+
+### Slide <!-- omit in toc -->
+
+![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/time_out.png)
 
 ## 11. Consequences ― Spanking and Alternatives
 
@@ -772,6 +814,8 @@ Negotiation steps:
 * Role play the situation and the selected solution.
   * Constructive tone is helpful.
   * Don't hesitate to start over or switch the roles.
+
+# Week 4 <!-- omit in toc -->
 
 ## 17. Nurturing Family Environment
 
