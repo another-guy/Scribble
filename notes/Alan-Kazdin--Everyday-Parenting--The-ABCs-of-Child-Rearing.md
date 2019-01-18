@@ -39,7 +39,8 @@
 * [18. Common Misconceptions](#18-common-misconceptions)
 * [19. School Behaviors ― Handling Problems](#19-school-behaviors--handling-problems)
 * [20. School Behaviors ― Building Competencies](#20-school-behaviors--building-competencies)
-* [21. Seeking Professional Help](#21-seeking-professional-help)
+* [21. Seeking Professional Help ― Identification](#21-seeking-professional-help--identification)
+* [22. Seeking Professional Help ― Execution](#22-seeking-professional-help--execution)
 
 ## _My_ Challenge <!-- omit in toc -->
 
@@ -1065,5 +1066,145 @@ Parents and other adults can report what they have read on a particular day.
 It is okay to make such practice a routine where everyone gets a chance to speak about what they learned.
 Just keep it pressure-free.
 
-## 21. Seeking Professional Help
+## 21. Seeking Professional Help ― Identification
 
+So far the regular parental challenges were covered.
+This section is dedicated to more extremes behavior which go beyond normal challenges.
+
+Three important points on psychological problems:
+
+* Many of them are not binary, but are on a continuum.
+  * Depression, hyperactivity, autism spectrum disorder may have symptoms of different intensity.
+* If you're deliberating whether the child should get professional help or not, do get help.
+  * Trust your intuition.
+* Do NOT blame yourself for problems your child may have.
+  * This is especially important for mothers who tend to blame themselves as the very first thing.
+  * Only extreme parenting practices (e.g. harsh punishment or neglection) can lead to psychological problems.
+
+### Impairment <!-- omit in toc -->
+
+**RED FLAG**: **`Impairment`** occurs when a child's behavior interferes with meeting the usual demands and role expectations at home or at school.
+
+For a toddler the normal behavior is sleeping, growing, engaging in normal activities at home.
+There's not much demands or expectations here.
+
+When a child goes to a preschool, the demands and expecations grow: like fitting in with others and following the routines in that setting.
+There's still a little to expect or demand.
+For example, if the child is not very social or does not sleep at the same time as others, that is totally normal and no cause for alarm.
+However, if the child is frequently isolated in daycare or kicked out of preschool, these would qualify as impairment.
+
+Impairments are more and more easily detected with the growth of the child and the corresponding expectations.
+Aggressive behavior, high level of activity, anxiety, depression getting in the way of routine activities, and getting alone with peers are examples of impairment in children of older age.
+
+### Dangerous Behaviors <!-- omit in toc -->
+
+**RED FLAG**: The child is in danger to himself or others. (Notice the pattern and consistency.)
+
+Examples include repeatedly being aggressive with a sibling, or cruel to a pet.
+Playing with matches or setting fires.
+Making threats to kill classmates or teachers.
+Self-mutilation.
+Thoughts of suicide.
+
+The key is to evaluate the harmful actions and address the threats as soon as possible.
+
+Hurting a sibling by accident or fighting with a bully is not a sign of an issue.
+But if these things happen regularly, special help should be seeked.
+
+### Unusual Behaviors <!-- omit in toc -->
+
+**RED FLAG**: Engaging in unusual or questionable behaviors.
+
+Does your child engage in endless, repetitive behaviors with toys of objects for hours on end?
+Do they see things that aren't there?
+Or believe that some spirit is in control of their minds or hearing voices that tell them to do harmful or dangerous things?
+All of these require professional help.
+
+But take age into consideration.
+A five year old muttering to himself and two or three different voices while playing with soldiers or toy hospital is quite normal.
+Much of early childhood and normal development includes imaginary play, imaginary friends, dialogues with animals, etc.
+The same done by a 12 year old, being alone in the place, especially happening more that once is a sign of a problem.
+
+### Change In Behavior <!-- omit in toc -->
+
+**RED FLAG**: A sudden and sustained deviation to a pattern of the things the child likes or does may be a cause for concern.
+
+E.g. an abrupt change from doing fine or adequately at school to doing very poorly.
+Similarly, sleeping, or eating, or signs of anxiety could be another indicator.
+
+Struggling with a single subject matter is not a pointer to an issue.
+But if there's a drastic change across the subjects, rather suddenly, then you may want to seek guidance.
+
+### Distress <!-- omit in toc -->
+
+**ATTENTION**: Is your child showing signs of stress that coincide with exposure to some event or stressor?
+
+A. What is going on in child's life?
+B. What is child's reaction.
+
+Many events can lead to signs of distress.
+E.g. loss of a parent, divorce, moving to another city, starting a new school, natural disasters that lead to changes in living conditions.
+Most of these things will result in psychological problems that are marked but temporary (up to a few months) aka *problems of adjustment*.
+
+Even temporary reaction that will pass may require treatment if the child shows extreme distress.
+
+Sometimes it is difficult to tell if the child is having a difficult times.
+This is because depression anxiety and withdrawals are more inward focused but don't usually result in conflicts or clashes with the environment.
+
+### Unmanageable <!-- omit in toc -->
+
+**RED FLAG**: child is difficult or impossible to control with the common measures.
+
+The child may be doing fine at school but is completely unmanageable at home.
+Or the other way around.
+Each case is a ground for seeking professional help.
+
+## 22. Seeking Professional Help ― Execution
+
+### Evaluation <!-- omit in toc -->
+
+**`Evaluation`** is the process of mental health professional interviewing a child and a parent in order to make a diagnosis.
+
+A casual chat will not work here.
+Professionals are using standard interviews designed specially for these purposes.
+
+During an interview the parent can be asked about the following areas of child's life:
+
+* What are the sympthoms and behaviors of concern?
+* How does the child function in everyday life?
+* What is the current family situation?
+* Are there potential stressful events in child's life?
+
+There might be a physical exam or lab tests also in case something medical is involved.
+
+### Treatment <!-- omit in toc -->
+
+**`Treatment`** is a course of action based on the child's diagnosis provided by mental health professional.
+
+Expect medications, or psychological techniques, or both to be used for achieving positive changes.
+In some cases, the treatment is intensive and is provided under direct care of a professional specially trained in these techniques.
+There are effective treatments for many psychological problems and hence there is room for hope that changes can be made in what your child is experiencing.
+
+### Seeking Services <!-- omit in toc -->
+
+**Use only reliable sources of information!**
+Go to a source that based on the US Government Evaluation of Treatment or from a professional organization that focuses on mental health and considers the research on effective treatments.
+
+* Your State's Psychological Association.
+* National Institute of Mental Health.
+* Centers for Disease Control and Prevention.
+* Substance Abuse and Mental Health Services Administration.
+* American Psychological Association.
+* American Academy of Child & Adolescent Psychiatry.
+* American Academy of Pediatrics.
+
+The professional you're going to should be credentialed and licensed by state or province.
+
+Ask questions:
+
+* What is the treatment you provide for my child's problems?
+* How long have you been providing this treatment?
+* Has this particular treatment been studies, and does it have scientific evidence in its favor?
+* What are treatment options other than the one you provide?
+
+**Lock for evidence-based treatments.**
