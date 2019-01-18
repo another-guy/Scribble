@@ -135,6 +135,7 @@ Install individually via `yarn global add <package-name>`
 
 ## Blogs
 
+* Google DevTools: [blog](https://developers.google.com/web/updates/2019/).
 * Hillel Wayne: [blog](https://www.hillelwayne.com/post/) and [twitter](https://twitter.com/hillelogram). Hillel Wayne is a software consultant who specializes in formal methods and specification. He also writes on empirical engineering, software history, and education. In his free time, he juggles and makes chocolate. Author of Practical TLA+: Planning Driven Development.
 * Dr. Alan E. Kazdin: [blog](http://alankazdin.com/blog/). Dr. Alan E. Kazdin is Sterling Professor of Psychology and Child Psychiatry at Yale University and Director of the Yale Parenting Center. He was the 2008 President of the American Psychological Association and is the author of 49 books for professional-audiences on topics of parenting and child rearing, child psychotherapy, cognitive and behavioral treatments, and interpersonal violence.
 * The Black Swan Group: [blog](https://blog.blackswanltd.com/the-edge). 
