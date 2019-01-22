@@ -25,7 +25,7 @@
 * [4. Behaviors ― Simulation](#4-behaviors--simulation)
 * [5. Behaviors ― Modeling](#5-behaviors--modeling)
 * [6. Consequences ― Positive Opposite](#6-consequences--positive-opposite)
-* [7. Consequences ― Point Programs](#7-consequences--point-programs)
+* [7. Consequences ― Point Programs (aka Token Economy)](#7-consequences--point-programs-aka-token-economy)
 * [8. Consequences ― Attending & Planned Ignoring](#8-consequences--attending--planned-ignoring)
 * [9. Consequences ― Punishment Basics](#9-consequences--punishment-basics)
 * [10. Consequences ― Time Out from Reinforcement](#10-consequences--time-out-from-reinforcement)
@@ -363,27 +363,83 @@ What parents or other important people do is more likely to be picked up than wh
 ## 6. Consequences ― Positive Opposite
 
 ### Definition <!-- omit in toc -->
+
+**`Positive opposite`** is a technique which replaces the punishment of the negative behavior with the focus on consistent praising of the opposite good behavior. 
+
+You may be skeptical about the efficiency of this technique but a lot of research shows that it actually works.
+People get skeptical because the technique is counterintuitive and we as human beings tend to focus on negative aspects of one's personality or behavior (*negativity bias*).
+
 ### Ingredients <!-- omit in toc -->
+
+* Identify the negative behavior you want to reduce.
+* Identify what the positive opposite behavior, i.e. what you want the child to do *instead*.
+* Actively monitor for positive behavior and praise it whenever it occurs.
+  * *"Catch the child being good."*
+
 ### EXAMPLE <!-- omit in toc -->
 
 TODO
 
 ### FAQ <!-- omit in toc -->
-### Caution <!-- omit in toc -->
+
+> Why don't I just punish my child if he doesn't do what I ask of him?
+
+Punishment is too easy to administer in a wrong way, with negative consequences.
+More importantly, punishment only stops the negative behavior but doesn't teach the positive behavior.
+
+> What do I do if the child is still doing the behavior I am trying to get rid of?
+
+Positive opposite does not work immediately.
+Do use mild punishment if necessary, such as temporary loss of a privilege.
+But keep the emphasis on the positive opposite.
+The more it gets praised, the faster it will get settled.
+
+> For how long do we need to use positive opposites to get the resuls we want?
+
+It is impossible to predict because behaviors are different, children are different, and periodicity of the technique application may be very different.
+A couple or three weeks should be enough in most cases though.
 
 ### Slide <!-- omit in toc -->
 
 ![](https://raw.githubusercontent.com/another-guy/Scribble/master/notes/images/Alan-Kazdin--Everyday-Parenting--The-ABCs-of-Child-Rearing/positive_opposite.png)
 
-## 7. Consequences ― Point Programs
+## 7. Consequences ― Point Programs (aka Token Economy)
+
+Providing a positive consequence after your child engages in the behavior you want to develop is a very powerful tool.
+These consequences are called "positive reinforcers".
+The most important positive consequence that you can provide routinely is praise.
+
+Unlike praise, points are tengible rewards that the child earns for engaging in positive behavior you'd like to develop.
+The specific kind of token doesn't make any difference in how the program works.
 
 ### Definition <!-- omit in toc -->
-### Ingredients <!-- omit in toc -->
-### EXAMPLE <!-- omit in toc -->
 
-TODO
+**`Point Program`** is a system of administering rewards to develop positive behavior.
+
+It's a way of structuring rewards.
+Points are like money.
+They are earned by the child for behavior you want to develop.
+They are spent like money on privileges or activities or other items of interest.
+
+### Ingredients <!-- omit in toc -->
+
+* Specify a specific behavior to earn points.
+* Choose a medium that will service points: stars, tickets, smily faces... anything works.
+* Have a way of tracking points earned.
+* List point values, i.e. how many points are granted for a particular behavior.
+* Develop a reward menu which specifies what the points can buy and what the prices are.
+  * E.g. staying up late, playing a game with a parent, extra time on the computer.
+  * Food and snacks are BAD rewards.
+  * Ask child for help with selecting the rewards.
 
 ### FAQ <!-- omit in toc -->
+
+> The last thing I want to do is to give my child points for good behavior.
+> Kid should just do the behavior when I ask and I should not need to use points or praise.
+
+Yes, if the child does the behavior.
+However, if the child does not do the behavior points program and praise can help.
+
 ### Caution <!-- omit in toc -->
 
 ### Slide <!-- omit in toc -->
