@@ -63,13 +63,14 @@
 
 ### Windows
 
-* ✔️👍🔧 [VS Code](https://code.visualstudio.com/) - extensible code editor.
-  * ✔️👍🔧 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - enables [Markdown](https://en.wikipedia.org/wiki/Markdown) support.
+* ✔️👍🔧 [VS Code](https://code.visualstudio.com/): extensible code editor.
+  * ✔️👍🔧 [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more. Requires [TeX Live](https://www.tug.org/texlive/).
+  * ✔️👍🔧 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): enables [Markdown](https://en.wikipedia.org/wiki/Markdown) support.
   * ➖🔧 [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
   * ➖🔧 [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-* ✔️👍🔧 [Git Bash](https://git-scm.com/downloads) - bash for Windows (part of Git).
-* ✔️👍🔧 [ConEmu](https://conemu.github.io/) - multiple console terminal for Windows. 
-* ✔️👍🔧 [Yarn](https://yarnpkg.com/en/) - alternative NPM package manger.
+* ✔️👍🔧 [Git Bash](https://git-scm.com/downloads): bash for Windows (part of Git).
+* ✔️👍🔧 [ConEmu](https://conemu.github.io/): multiple console terminal for Windows. 
+* ✔️👍🔧 [Yarn](https://yarnpkg.com/en/): alternative NPM package manger.
 * ✔️👍🔧 [nvm-windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows. 
 
 ### Global NPM packages
