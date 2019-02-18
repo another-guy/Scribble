@@ -69,6 +69,7 @@
   * ✔️👍🔧 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): enables [Markdown](https://en.wikipedia.org/wiki/Markdown) support.
   * ➖🔧 [Jest Snippets (extension)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
   * ➖🔧 [ES7 React/Redux/GraphQL/React-Native snippets (extension)](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  * ➖🔧 [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount). Counts words in Markdown. Helpful to assess script reading time.
 * ✔️👍🔧 [Git Bash](https://git-scm.com/downloads): bash for Windows (part of Git).
 * ✔️👍🔧 [ConEmu](https://conemu.github.io/): multiple console terminal for Windows. 
 * ✔️👍🔧 [Yarn](https://yarnpkg.com/en/): alternative NPM package manger.
