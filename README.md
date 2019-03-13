@@ -40,7 +40,7 @@
 
 #### Accessibility (A11y)
 
-[React on ♿ Accessibility](https://reactjs.org/docs/accessibility.html).
+* [React on ♿ Accessibility](https://reactjs.org/docs/accessibility.html).
 
 #### Node.js
 
