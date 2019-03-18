@@ -1,9 +1,20 @@
-Слушаю лекции Роберта Сапольски и всё больше проникаюсь мыслью, как же классно он читает -- вне зависимости от того, что суть его лекций сама по себе безумно интересна.
+Listening to Robert Sapolsky's lectures I'm getting more and more amused by his classy presenting style regardless the fact his lectures are fascinating.
 
-Ключевые правила хорошего лектора для случаев, когда читается цикл последовательных лекций об одном предмете или связанных:
+Here's a short check list for each speaker who's giving a series of lectures on a single or several related subjects:
 
-* [ ] в начале каждой следующей лекции коротко пройдись по тезисам уже прошедших лекций, напомни их основные темы, ключевые правила, последовательность развития курса;
-* [ ] в начале курса лекций расскажи, как он устроен: сколько будет длиться, кто ведёт, какая частота и темы занятий, в чём состоит экзамен (если он есть). Если курс длинный, повтори один или два раза по ходу дела;
+* [ ] In the beginning of each lecture briefly scan through the things covered so far:
+  * enumerate the subjects covered;
+  * mention the thesis statements of the past lectures;
+  * refresh the key rules;
+  * remind how the course developed.
+* [ ] In the beginning of the course describe its structure (it would not hurt to repeat this once in a while if the course is long-running): 
+  * duration;
+  * speakers;
+  * lecture frequency and subjects;
+  * what's on the test/exam.
+  
+---
+
 * [ ] в конце каждой лекции или блока внутри лекции явно формулируй короткие постулаты/выводы, которые должны остаться в головах слушателей, даже когда подробности подзабудутся;
 * [ ] если лекция длиннее часа, делай 5-минутный перерыв каждые 45 минут. После перерыва напомни, о чём говорили до перерыва;
 * [ ] приводя подробности, списки, используя специфические термины, комментируй, важно ли выучить всё упомянутое, или достаточно усвоить концепт без подробностей;
