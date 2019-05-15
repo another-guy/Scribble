@@ -111,6 +111,8 @@ Install individually via `yarn global add <package-name>`
 
 ### Candidates
 
+* ➖ [flowchart.js](https://flowchart.js.org/): Draws simple SVG flow chart diagrams from textual representation of the diagram.
+* ➖ [gitgraphjs](https://gitgraphjs.com/#6): A JavaScript library to draw pretty git graphs.
 * ➖ [git-also](https://github.com/anvaka/git-also): For a file in a git repository, prints other files that are most often committed together.
 * ➖ [packagephobia](https://github.com/styfle/packagephobia): Find the cost of adding a new dependency to your project.
 * ➖ [jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
